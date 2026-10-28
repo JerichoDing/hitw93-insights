@@ -2,34 +2,56 @@
  "profile": {
   "username": "HiTw93",
   "name": "Tw93",
-  "followers": 164229,
+  "followers": 164477,
   "following": 284,
-  "tweets": 11482,
-  "listed": 1354,
+  "tweets": 11506,
+  "listed": 1359,
   "description": "Pake · MiaoYan · Kaku · Waza · Kami"
  },
  "posts": [
+  {
+   "id": "2115372861397565831",
+   "created_at": "2026-10-28T09:19:26.000Z",
+   "text": "请 AI 机器号不要再这个下面评论，我的 Bot 在自动拉黑你们，当然假如有误删，欢迎找我，非常抱歉。 https://t.co/Z7SYJGZCx5",
+   "url": "https://x.com/HiTw93/status/2115372861397565831",
+   "likes": 13,
+   "bookmarks": 0,
+   "reposts": 0,
+   "replies": 3,
+   "impressions": 2141
+  },
+  {
+   "id": "2115366100221501540",
+   "created_at": "2026-10-28T08:52:34.000Z",
+   "text": "假如把我的 AI Coding 经验沉淀成一些最佳实践规则，可以给到大伙复用，会是怎么样的，于是乎，今天一下午我就在琢磨这个事情，手写反复调整后给到大伙，可以让你和你的 Agent 一起去学习。\n\n需求\n1. https://t.co/WA5Fi2XZ6B",
+   "url": "https://x.com/HiTw93/status/2115366100221501540",
+   "likes": 588,
+   "bookmarks": 724,
+   "reposts": 65,
+   "replies": 63,
+   "impressions": 22780
+  },
   {
    "id": "2115075830955348064",
    "created_at": "2026-10-27T13:39:08.000Z",
    "text": "I started MiaoYan in 2020, and six years later it's on iPhone and iPad too. It's a native Markdown editor written in Swift, one App Store purchase covers Mac, iPhone and iPad with the same iCloud Drive folder, and the Mac app stays free and open source. \nhttps://t.co/QJcbNtnpr7 https://t.co/leiW7Teh9G",
    "url": "https://x.com/HiTw93/status/2115075830955348064",
-   "likes": 95,
-   "bookmarks": 51,
+   "likes": 109,
+   "bookmarks": 62,
    "reposts": 6,
-   "replies": 14,
-   "impressions": 23107
+   "replies": 15,
+   "impressions": 26882
   },
   {
    "id": "2115003746027757811",
    "created_at": "2026-10-27T08:52:42.000Z",
    "text": "笑死了，居然经常小伙伴问我如何把自己改造得不这么程序员，以及刚好双十一怎么买一些衣服来搭配一下，哈哈哈，真没想到系列，刚好这里理一理分享给大伙，说不定用得上。\n\n首先我认为不是先去买衣服，而是搜索一下周边比较不错的理发店，可以是之前自己理发价格的 double 的那种，然后约一个 Tony https://t.co/FrhBI02oXp",
    "url": "https://x.com/HiTw93/status/2115003746027757811",
-   "likes": 244,
-   "bookmarks": 135,
-   "reposts": 11,
-   "replies": 56,
-   "impressions": 25109
+   "likes": 275,
+   "bookmarks": 151,
+   "reposts": 12,
+   "replies": 65,
+   "impressions": 29521
   },
   {
    "id": "2114750773133562365",
@@ -37,32 +59,32 @@
    "text": "看一下今晚发布的新 iPad mini8，立马冒出一句话苹果是在哪儿进货的 2026 年的还是 60hz 的 OLED 屏幕的？\n\n依然觉得我这两个小设备最适合我，完全可以不换 mini8 或者 duo 了。 https://t.co/pvOHyPGHfX",
    "url": "https://x.com/HiTw93/status/2114750773133562365",
    "likes": 257,
-   "bookmarks": 58,
+   "bookmarks": 57,
    "reposts": 5,
    "replies": 61,
-   "impressions": 92776
+   "impressions": 93740
   },
   {
    "id": "2114702036264767748",
    "created_at": "2026-10-26T12:53:49.000Z",
    "text": "https://t.co/V9tA0xTPsb",
    "url": "https://x.com/HiTw93/status/2114702036264767748",
-   "likes": 268,
+   "likes": 271,
    "bookmarks": 280,
-   "reposts": 28,
+   "reposts": 27,
    "replies": 22,
-   "impressions": 22622
+   "impressions": 23555
   },
   {
    "id": "2114652266590593103",
    "created_at": "2026-10-26T09:36:03.000Z",
    "text": "潮流周刊居然已经写了 6 年多了，发布到了 287 期了，AI 时代前的产物，比 ChatGPT 的发布还早 2 年，欢迎大伙有事没事去看看 https://t.co/srC40uEkab ，找找有没有自己顺手的工具、不错的文章以及围观我的封面拍照，哈哈。 https://t.co/HvYsFkgKQc",
    "url": "https://x.com/HiTw93/status/2114652266590593103",
-   "likes": 143,
-   "bookmarks": 50,
+   "likes": 146,
+   "bookmarks": 51,
    "reposts": 10,
    "replies": 24,
-   "impressions": 13649
+   "impressions": 14060
   },
   {
    "id": "2114354011843481793",
@@ -73,7 +95,7 @@
    "bookmarks": 78,
    "reposts": 7,
    "replies": 21,
-   "impressions": 26858
+   "impressions": 27101
   },
   {
    "id": "2114298268880679212",
@@ -83,8 +105,8 @@
    "likes": 112,
    "bookmarks": 9,
    "reposts": 1,
-   "replies": 61,
-   "impressions": 20236
+   "replies": 62,
+   "impressions": 20399
   },
   {
    "id": "2114230677604557136",
@@ -92,21 +114,21 @@
    "text": "给关注者比较多的小伙伴一些建议。\n\n假如你以后想做自己的独立产品，那就不太建议你去接商单，一方面这可能是你未来用户不喜欢的点，另一方面会让你感觉还是自媒体来钱快，可能弄独立开发就坚持不下去了。 https://t.co/d4S5IRh4RT",
    "url": "https://x.com/HiTw93/status/2114230677604557136",
    "likes": 213,
-   "bookmarks": 38,
+   "bookmarks": 36,
    "reposts": 5,
    "replies": 49,
-   "impressions": 29516
+   "impressions": 29687
   },
   {
    "id": "2113975366469767426",
    "created_at": "2026-10-24T12:46:17.000Z",
    "text": "刚刚做了一个非常简单但有用的事情，几句话把我的 Android 小平板上的系统广告、无用通知、牛皮藓图标、以及没有用的预装应用全部干掉了，非常适合当你刚买了Android 手机、平板，或者是给你的家人来优化手机，现在我的 Android 小平板非常干净了。\n\n首先把 Android 机器使用自带数据线连接 https://t.co/UzA4ah0jaH",
    "url": "https://x.com/HiTw93/status/2113975366469767426",
-   "likes": 607,
+   "likes": 608,
    "bookmarks": 780,
    "reposts": 67,
    "replies": 77,
-   "impressions": 53879
+   "impressions": 54170
   },
   {
    "id": "2113863707814248773",
@@ -117,7 +139,7 @@
    "bookmarks": 1,
    "reposts": 2,
    "replies": 46,
-   "impressions": 25233
+   "impressions": 25352
   },
   {
    "id": "2113827291289809248",
@@ -127,8 +149,8 @@
    "likes": 21,
    "bookmarks": 0,
    "reposts": 0,
-   "replies": 33,
-   "impressions": 13615
+   "replies": 34,
+   "impressions": 13708
   },
   {
    "id": "2113611264417255679",
@@ -139,7 +161,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 10,
-   "impressions": 6066
+   "impressions": 6156
   },
   {
    "id": "2113550677268160860",
@@ -147,10 +169,10 @@
    "text": "Mole CLI 开源版本最近更新了非常多的很不错的功能，想着这个推一起告诉大伙，持续迭代，当然非常高兴一转眼已经 72.5K Star 了！\n\n首先首先，Windows 版本的 CLI 经过最近密集的 7个版本迭代，集中迭代了非常多功能，终于终于和 Mac https://t.co/Zf96CkFEGY",
    "url": "https://x.com/HiTw93/status/2113550677268160860",
    "likes": 243,
-   "bookmarks": 88,
+   "bookmarks": 86,
    "reposts": 13,
    "replies": 24,
-   "impressions": 18025
+   "impressions": 18132
   },
   {
    "id": "2113421550527599062",
@@ -158,10 +180,10 @@
    "text": "3 篇终于连载完啦，小伙伴点击进去，我把内容在评论串起来了，哈哈，今日学习任务来咯 https://t.co/jeLrSrt3OI",
    "url": "https://x.com/HiTw93/status/2113421550527599062",
    "likes": 33,
-   "bookmarks": 16,
+   "bookmarks": 17,
    "reposts": 0,
    "replies": 5,
-   "impressions": 7048
+   "impressions": 7128
   },
   {
    "id": "2113420869016105315",
@@ -172,7 +194,7 @@
    "bookmarks": 4,
    "reposts": 0,
    "replies": 0,
-   "impressions": 2683
+   "impressions": 2688
   },
   {
    "id": "2113420820815224904",
@@ -183,29 +205,29 @@
    "bookmarks": 2,
    "reposts": 0,
    "replies": 1,
-   "impressions": 3153
+   "impressions": 3195
   },
   {
    "id": "2113276119860613209",
    "created_at": "2026-10-22T14:27:44.000Z",
    "text": "书接上上文，前两篇文章我们聊到了客户端研发的技术选型考虑，以及我是如何在 Mac 上开发 Windows 软件的，当时留了一个尾巴，今晚来和大伙聊聊，我们在进行客户端应用研发的时候，如何利用各种技术语言的特性来帮助我们产品做得更好。\n\n比如说写 Mac 应用你的主语言是 https://t.co/dN7m0uPvQG",
    "url": "https://x.com/HiTw93/status/2113276119860613209",
-   "likes": 174,
-   "bookmarks": 92,
+   "likes": 175,
+   "bookmarks": 93,
    "reposts": 7,
    "replies": 23,
-   "impressions": 16740
+   "impressions": 16852
   },
   {
    "id": "2113224237070889019",
    "created_at": "2026-10-22T11:01:34.000Z",
    "text": "非常推荐小伙伴听一听这一期的小珺和曾鸣聊 AI 时代的产业观、组织升级、以及各种思考。\n\n很有高度，让我受益匪浅，我发现我最近很喜欢听这种长访谈，很有人味！ https://t.co/Rr8ml2asOB",
    "url": "https://x.com/HiTw93/status/2113224237070889019",
-   "likes": 193,
+   "likes": 194,
    "bookmarks": 113,
    "reposts": 11,
    "replies": 30,
-   "impressions": 16526
+   "impressions": 16599
   },
   {
    "id": "2113162522597724258",
@@ -216,18 +238,18 @@
    "bookmarks": 67,
    "reposts": 3,
    "replies": 14,
-   "impressions": 16966
+   "impressions": 17030
   },
   {
    "id": "2112915889523941780",
    "created_at": "2026-10-21T14:36:18.000Z",
    "text": "书接上回，接着聊昨晚聊的多端技术选型，今天我们来聊第二篇，说说我是怎么在 Mac 上来开发原生 Windows 软件的，以及我是如何搭建编译、测试环境的，还有最近一个月做 Mole Windows 版踩过的一些有意思的坑。\n\n技术栈上，Mac 版本的 Mole 使用的也是原生的 Swift + https://t.co/mutM2NEp37",
    "url": "https://x.com/HiTw93/status/2112915889523941780",
-   "likes": 351,
-   "bookmarks": 263,
+   "likes": 352,
+   "bookmarks": 264,
    "reposts": 33,
    "replies": 48,
-   "impressions": 31900
+   "impressions": 32101
   },
   {
    "id": "2112747828598759925",
@@ -238,18 +260,18 @@
    "bookmarks": 0,
    "reposts": 0,
    "replies": 3,
-   "impressions": 8090
+   "impressions": 8134
   },
   {
    "id": "2112526198807183766",
    "created_at": "2026-10-20T12:47:49.000Z",
    "text": "发现不少小伙伴很好奇我是怎么用 Mac 来开发Windows软件的，以及Windows软件现在一般用什么技术栈来实现，刚好有空，来和大伙随便聊聊关于多客户端下技术选择的思考以及我的一些想法。\n\n以下是第一篇，给大伙介绍介绍各种桌面、移动端开发技术的选择以及对应选择的思考。 https://t.co/Jw1kL3FaKu",
    "url": "https://x.com/HiTw93/status/2112526198807183766",
-   "likes": 609,
+   "likes": 610,
    "bookmarks": 471,
    "reposts": 46,
    "replies": 67,
-   "impressions": 70718
+   "impressions": 70902
   },
   {
    "id": "2112383830351134901",
@@ -260,7 +282,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 1,
-   "impressions": 9753
+   "impressions": 9787
   },
   {
    "id": "2112336557072060910",
