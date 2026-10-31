@@ -2,100 +2,122 @@
   "profile": {
     "username": "HiTw93",
     "name": "Tw93",
-    "followers": 164799,
+    "followers": 164865,
     "following": 284,
-    "tweets": 11579,
-    "listed": 1366,
+    "tweets": 11588,
+    "listed": 1368,
     "description": "Pake · MiaoYan · Kaku · Waza · Kami"
   },
   "posts": [
+    {
+      "id": "2116318332387565839",
+      "created_at": "2026-10-30T23:56:24.000Z",
+      "text": "\"You've gotta touch it to believe it.\" Then you've gotta wipe it. https://t.co/HmGmgtsI4W",
+      "url": "https://x.com/HiTw93/status/2116318332387565839",
+      "likes": 14,
+      "bookmarks": 0,
+      "reposts": 0,
+      "replies": 4,
+      "impressions": 5572
+    },
+    {
+      "id": "2116163296437104926",
+      "created_at": "2026-10-30T13:40:20.000Z",
+      "text": "Kami 1.20 is out. Your AI writes the words, Kami gives them good paper.\n\nFrom the last three releases: charts drawn from data and checked before delivery, product sites in the product's own color, and Chinese and Korean pages that read well on iPhone.\n\nhttps://t.co/I80D90N6Ji https://t.co/onFdJPLFzK",
+      "url": "https://x.com/HiTw93/status/2116163296437104926",
+      "likes": 121,
+      "bookmarks": 108,
+      "reposts": 4,
+      "replies": 7,
+      "impressions": 12498
+    },
     {
       "id": "2116075564520145260",
       "created_at": "2026-10-30T07:51:44.000Z",
       "text": "https://t.co/I8ep84hQNq",
       "url": "https://x.com/HiTw93/status/2116075564520145260",
-      "likes": 4,
-      "bookmarks": 4,
+      "likes": 6,
+      "bookmarks": 6,
       "reposts": 0,
       "replies": 0,
-      "impressions": 1452
+      "impressions": 2012
     },
     {
       "id": "2116074462059896969",
       "created_at": "2026-10-30T07:47:21.000Z",
       "text": "来一波回忆杀，我的博客居然写了快 12 年了，从 2014 年底开始写，当时还是稚嫩的大学生，更有趣的是框架还是十几年前比较火的 Ruby 的Jekyll，几乎没有改过版本，当然也是我在写了 2 年 PHP 后感觉前端更有意思，学习 JS 的第一个项目。\n\n翻到了当时写了一篇 Vue、Angular、Avalon 框架的比较，当时 https://t.co/rAiyU0awfk",
       "url": "https://x.com/HiTw93/status/2116074462059896969",
-      "likes": 96,
-      "bookmarks": 19,
+      "likes": 155,
+      "bookmarks": 35,
       "reposts": 0,
-      "replies": 18,
-      "impressions": 8560
+      "replies": 25,
+      "impressions": 14513
     },
     {
       "id": "2115805352520282623",
       "created_at": "2026-10-29T13:58:00.000Z",
       "text": "I spent an afternoon turning my AI coding habits into 20 rules that you and your agent can learn from together.\n\nBriefing\n1. Stop dictating the implementation. Describe the outcome you want. Models are good enough now, so aim high and don't worry that it can't be done.\n2. Give your agent the background and the goal: why it matters, who it's for, what great looks like. Then let go of the technical details.",
       "url": "https://x.com/HiTw93/status/2115805352520282623",
-      "likes": 675,
-      "bookmarks": 947,
-      "reposts": 76,
-      "replies": 40,
-      "impressions": 40208
+      "likes": 728,
+      "bookmarks": 1025,
+      "reposts": 85,
+      "replies": 43,
+      "impressions": 44463
     },
     {
       "id": "2115696282216067577",
       "created_at": "2026-10-29T06:44:36.000Z",
       "text": "今天化身做饭博主来教大伙如何整一个非常好吃的大闸蟹，如何蒸以及调灵魂料汁，哈哈这次我做得非常好吃。 https://t.co/qyFV05urkE",
       "url": "https://x.com/HiTw93/status/2115696282216067577",
-      "likes": 84,
+      "likes": 85,
       "bookmarks": 27,
       "reposts": 1,
       "replies": 23,
-      "impressions": 13639
+      "impressions": 14466
     },
     {
       "id": "2115590674494173573",
       "created_at": "2026-10-28T23:44:57.000Z",
       "text": "Mole tells you what your cleaned space would cost at Apple's storage upgrade price. I'm at $1,300 so far. Hover the Clean number at the bottom of the menu bar panel to see yours. How much have you saved? https://t.co/N7PUqJrwvg",
       "url": "https://x.com/HiTw93/status/2115590674494173573",
-      "likes": 51,
+      "likes": 52,
       "bookmarks": 9,
       "reposts": 1,
       "replies": 14,
-      "impressions": 14305
+      "impressions": 14776
     },
     {
       "id": "2115448387701182969",
       "created_at": "2026-10-28T14:19:33.000Z",
       "text": "Kaku shipped 9 releases in October, mostly on remote access. \n\nRun kaku remote and your Mac's terminals, running Claude Code sessions included, open in a browser on another device, and it now works with touch, on the web page and over remote desktop. \n\nhttps://t.co/cJVSaw22Ux https://t.co/keRNAykZZq",
       "url": "https://x.com/HiTw93/status/2115448387701182969",
-      "likes": 35,
+      "likes": 36,
       "bookmarks": 11,
       "reposts": 2,
       "replies": 7,
-      "impressions": 8555
+      "impressions": 8776
     },
     {
       "id": "2115372861397565831",
       "created_at": "2026-10-28T09:19:26.000Z",
       "text": "请 AI 机器号不要再这个下面评论，我的 Bot 在自动拉黑你们，当然假如有误删，欢迎找我，非常抱歉。 https://t.co/Z7SYJGZCx5",
       "url": "https://x.com/HiTw93/status/2115372861397565831",
-      "likes": 28,
+      "likes": 29,
       "bookmarks": 3,
       "reposts": 0,
       "replies": 7,
-      "impressions": 6163
+      "impressions": 6421
     },
     {
       "id": "2115366100221501540",
       "created_at": "2026-10-28T08:52:34.000Z",
       "text": "假如把我的 AI Coding 经验沉淀成一些最佳实践规则，可以给到大伙复用，会是怎么样的，于是乎，今天一下午我就在琢磨这个事情，手写反复调整后给到大伙，可以让你和你的 Agent 一起去学习。\n\n需求\n1. https://t.co/WA5Fi2XZ6B",
       "url": "https://x.com/HiTw93/status/2115366100221501540",
-      "likes": 1476,
-      "bookmarks": 1892,
-      "reposts": 183,
-      "replies": 114,
-      "impressions": 72699
+      "likes": 1489,
+      "bookmarks": 1918,
+      "reposts": 185,
+      "replies": 116,
+      "impressions": 75668
     },
     {
       "id": "2115075830955348064",
@@ -106,7 +128,7 @@
       "bookmarks": 66,
       "reposts": 6,
       "replies": 16,
-      "impressions": 29089
+      "impressions": 29264
     },
     {
       "id": "2115003746027757811",
@@ -117,7 +139,7 @@
       "bookmarks": 161,
       "reposts": 12,
       "replies": 67,
-      "impressions": 33533
+      "impressions": 34065
     },
     {
       "id": "2114750773133562365",
@@ -127,19 +149,19 @@
       "likes": 260,
       "bookmarks": 57,
       "reposts": 5,
-      "replies": 63,
-      "impressions": 95165
+      "replies": 64,
+      "impressions": 95538
     },
     {
       "id": "2114702036264767748",
       "created_at": "2026-10-26T12:53:49.000Z",
       "text": "https://t.co/V9tA0xTPsb",
       "url": "https://x.com/HiTw93/status/2114702036264767748",
-      "likes": 275,
-      "bookmarks": 284,
+      "likes": 276,
+      "bookmarks": 283,
       "reposts": 26,
       "replies": 22,
-      "impressions": 25216
+      "impressions": 25628
     },
     {
       "id": "2114652266590593103",
@@ -150,7 +172,7 @@
       "bookmarks": 51,
       "reposts": 10,
       "replies": 23,
-      "impressions": 14499
+      "impressions": 14592
     },
     {
       "id": "2114354011843481793",
@@ -161,7 +183,7 @@
       "bookmarks": 78,
       "reposts": 7,
       "replies": 21,
-      "impressions": 27639
+      "impressions": 27774
     },
     {
       "id": "2114298268880679212",
@@ -172,7 +194,7 @@
       "bookmarks": 9,
       "reposts": 1,
       "replies": 62,
-      "impressions": 20727
+      "impressions": 20807
     },
     {
       "id": "2114230677604557136",
@@ -183,18 +205,18 @@
       "bookmarks": 36,
       "reposts": 5,
       "replies": 49,
-      "impressions": 30062
+      "impressions": 30160
     },
     {
       "id": "2113975366469767426",
       "created_at": "2026-10-24T12:46:17.000Z",
       "text": "刚刚做了一个非常简单但有用的事情，几句话把我的 Android 小平板上的系统广告、无用通知、牛皮藓图标、以及没有用的预装应用全部干掉了，非常适合当你刚买了Android 手机、平板，或者是给你的家人来优化手机，现在我的 Android 小平板非常干净了。\n\n首先把 Android 机器使用自带数据线连接 https://t.co/UzA4ah0jaH",
       "url": "https://x.com/HiTw93/status/2113975366469767426",
-      "likes": 614,
-      "bookmarks": 783,
+      "likes": 613,
+      "bookmarks": 781,
       "reposts": 67,
       "replies": 77,
-      "impressions": 55285
+      "impressions": 55623
     },
     {
       "id": "2113863707814248773",
@@ -205,7 +227,7 @@
       "bookmarks": 1,
       "reposts": 2,
       "replies": 46,
-      "impressions": 25599
+      "impressions": 25673
     },
     {
       "id": "2113827291289809248",
@@ -216,7 +238,7 @@
       "bookmarks": 0,
       "reposts": 0,
       "replies": 34,
-      "impressions": 13931
+      "impressions": 13984
     },
     {
       "id": "2113611264417255679",
@@ -227,7 +249,7 @@
       "bookmarks": 3,
       "reposts": 0,
       "replies": 10,
-      "impressions": 6330
+      "impressions": 6376
     },
     {
       "id": "2113550677268160860",
@@ -238,7 +260,7 @@
       "bookmarks": 88,
       "reposts": 13,
       "replies": 24,
-      "impressions": 18416
+      "impressions": 18475
     },
     {
       "id": "2113421550527599062",
@@ -249,7 +271,7 @@
       "bookmarks": 17,
       "reposts": 0,
       "replies": 5,
-      "impressions": 7286
+      "impressions": 7320
     },
     {
       "id": "2113420869016105315",
@@ -260,7 +282,7 @@
       "bookmarks": 4,
       "reposts": 0,
       "replies": 0,
-      "impressions": 2711
+      "impressions": 2718
     },
     {
       "id": "2113420820815224904",
@@ -271,18 +293,18 @@
       "bookmarks": 3,
       "reposts": 0,
       "replies": 1,
-      "impressions": 3287
+      "impressions": 3312
     },
     {
       "id": "2113276119860613209",
       "created_at": "2026-10-22T14:27:44.000Z",
       "text": "书接上上文，前两篇文章我们聊到了客户端研发的技术选型考虑，以及我是如何在 Mac 上开发 Windows 软件的，当时留了一个尾巴，今晚来和大伙聊聊，我们在进行客户端应用研发的时候，如何利用各种技术语言的特性来帮助我们产品做得更好。\n\n比如说写 Mac 应用你的主语言是 https://t.co/dN7m0uPvQG",
       "url": "https://x.com/HiTw93/status/2113276119860613209",
-      "likes": 175,
-      "bookmarks": 91,
+      "likes": 174,
+      "bookmarks": 92,
       "reposts": 7,
       "replies": 23,
-      "impressions": 17029
+      "impressions": 17242
     },
     {
       "id": "2113224237070889019",
@@ -290,10 +312,10 @@
       "text": "非常推荐小伙伴听一听这一期的小珺和曾鸣聊 AI 时代的产业观、组织升级、以及各种思考。\n\n很有高度，让我受益匪浅，我发现我最近很喜欢听这种长访谈，很有人味！ https://t.co/Rr8ml2asOB",
       "url": "https://x.com/HiTw93/status/2113224237070889019",
       "likes": 194,
-      "bookmarks": 111,
+      "bookmarks": 112,
       "reposts": 11,
       "replies": 30,
-      "impressions": 16688
+      "impressions": 16813
     },
     {
       "id": "2113162522597724258",
@@ -304,7 +326,7 @@
       "bookmarks": 67,
       "reposts": 3,
       "replies": 14,
-      "impressions": 17101
+      "impressions": 17189
     },
     {
       "id": "2112915889523941780",
@@ -312,10 +334,10 @@
       "text": "书接上回，接着聊昨晚聊的多端技术选型，今天我们来聊第二篇，说说我是怎么在 Mac 上来开发原生 Windows 软件的，以及我是如何搭建编译、测试环境的，还有最近一个月做 Mole Windows 版踩过的一些有意思的坑。\n\n技术栈上，Mac 版本的 Mole 使用的也是原生的 Swift + https://t.co/mutM2NEp37",
       "url": "https://x.com/HiTw93/status/2112915889523941780",
       "likes": 352,
-      "bookmarks": 264,
+      "bookmarks": 263,
       "reposts": 33,
-      "replies": 48,
-      "impressions": 32101
+      "replies": 49,
+      "impressions": 32806
     },
     {
       "id": "2112747828598759925",
@@ -326,7 +348,7 @@
       "bookmarks": 0,
       "reposts": 0,
       "replies": 3,
-      "impressions": 8134
+      "impressions": 8238
     },
     {
       "id": "2112526198807183766",
@@ -334,10 +356,10 @@
       "text": "发现不少小伙伴很好奇我是怎么用 Mac 来开发Windows软件的，以及Windows软件现在一般用什么技术栈来实现，刚好有空，来和大伙随便聊聊关于多客户端下技术选择的思考以及我的一些想法。\n\n以下是第一篇，给大伙介绍介绍各种桌面、移动端开发技术的选择以及对应选择的思考。 https://t.co/Jw1kL3FaKu",
       "url": "https://x.com/HiTw93/status/2112526198807183766",
       "likes": 610,
-      "bookmarks": 471,
-      "reposts": 46,
+      "bookmarks": 472,
+      "reposts": 47,
       "replies": 67,
-      "impressions": 70902
+      "impressions": 71626
     },
     {
       "id": "2112383830351134901",
@@ -348,7 +370,7 @@
       "bookmarks": 3,
       "reposts": 0,
       "replies": 1,
-      "impressions": 9787
+      "impressions": 9872
     },
     {
       "id": "2112336557072060910",
@@ -359,18 +381,18 @@
       "bookmarks": 101,
       "reposts": 8,
       "replies": 38,
-      "impressions": 30385
+      "impressions": 30584
     },
     {
       "id": "2112168257763598836",
       "created_at": "2026-10-19T13:05:29.000Z",
       "text": "最近养成了一个非常好的习惯，想推荐给小伙伴们，我想把它叫做刷新或者重置。\n\n每次快到晚上，你从外面回来，第一件事其实就是去刷牙洗澡。把自己洗干净，吹干头发，换上干净的衣服，然后再去做自己的事情。\n\n比如说，你 7 点到家，洗完澡 7 https://t.co/npvH5KBCRP",
       "url": "https://x.com/HiTw93/status/2112168257763598836",
-      "likes": 1111,
-      "bookmarks": 471,
+      "likes": 1109,
+      "bookmarks": 469,
       "reposts": 86,
       "replies": 102,
-      "impressions": 149267
+      "impressions": 149808
     },
     {
       "id": "2112064790181101679",
@@ -381,18 +403,18 @@
       "bookmarks": 44,
       "reposts": 4,
       "replies": 45,
-      "impressions": 23832
+      "impressions": 24065
     },
     {
       "id": "2111814051735208382",
       "created_at": "2026-10-18T13:38:00.000Z",
       "text": "Just discovered this beautiful collection of 526 traditional Chinese colors, and I love it.\n\nEach color has its own poetic name, inspired by nature, flowers, minerals, and centuries of Chinese culture. Such a lovely source of inspiration for design.\n\nhttps://t.co/GDwP8ZFBcD https://t.co/d81VT5nHqk",
       "url": "https://x.com/HiTw93/status/2111814051735208382",
-      "likes": 206,
-      "bookmarks": 198,
+      "likes": 207,
+      "bookmarks": 197,
       "reposts": 19,
       "replies": 15,
-      "impressions": 16217
+      "impressions": 16364
     },
     {
       "id": "2111697267614961830",
@@ -400,10 +422,10 @@
       "text": "在这个 AI 什么都能干的年代，非常推荐工程师读一下这本书，我每次看完感觉功力大增！ https://t.co/U8tSOgDYBH",
       "url": "https://x.com/HiTw93/status/2111697267614961830",
       "likes": 517,
-      "bookmarks": 432,
-      "reposts": 49,
+      "bookmarks": 431,
+      "reposts": 48,
       "replies": 58,
-      "impressions": 33404
+      "impressions": 33613
     },
     {
       "id": "2111650123944165796",
@@ -414,7 +436,7 @@
       "bookmarks": 16,
       "reposts": 2,
       "replies": 24,
-      "impressions": 18466
+      "impressions": 18588
     },
     {
       "id": "2111457953886962054",
@@ -425,7 +447,7 @@
       "bookmarks": 16,
       "reposts": 4,
       "replies": 16,
-      "impressions": 14193
+      "impressions": 14300
     },
     {
       "id": "2111408186892992688",
@@ -436,7 +458,7 @@
       "bookmarks": 3,
       "reposts": 0,
       "replies": 6,
-      "impressions": 7584
+      "impressions": 7673
     },
     {
       "id": "2111377241678786884",
@@ -447,7 +469,7 @@
       "bookmarks": 2,
       "reposts": 0,
       "replies": 12,
-      "impressions": 9338
+      "impressions": 9420
     },
     {
       "id": "2110986830330175811",
@@ -458,7 +480,7 @@
       "bookmarks": 0,
       "reposts": 0,
       "replies": 0,
-      "impressions": 3732
+      "impressions": 3813
     },
     {
       "id": "2110980123524816977",
@@ -469,40 +491,40 @@
       "bookmarks": 6,
       "reposts": 2,
       "replies": 11,
-      "impressions": 13707
+      "impressions": 13808
     },
     {
       "id": "2110901581667516821",
       "created_at": "2026-10-16T01:12:10.000Z",
       "text": "我终于没有忍住，又冲了一个 Claude 250 刀的账号，终于够用了，想和大伙聊聊我是物尽其用的如何用完 2 个 Claude Max 账号加一个 ChatGPT Pro 账号的。\n\n我记得从 ChatGPT 3.5 https://t.co/UJL96DVRb9",
       "url": "https://x.com/HiTw93/status/2110901581667516821",
-      "likes": 623,
-      "bookmarks": 569,
-      "reposts": 36,
+      "likes": 621,
+      "bookmarks": 571,
+      "reposts": 37,
       "replies": 194,
-      "impressions": 91057
+      "impressions": 91518
     },
     {
       "id": "2110371329354698962",
       "created_at": "2026-10-14T14:05:08.000Z",
       "text": "Mole for Windows is finally here, a Windows app that feels well made. \n\nIt cleans thoroughly, removes apps with their leftovers, maps your disk and shows live status, all on your PC, no ads. $15.20 at launch, $10 for Mole for Mac owners with MOLEAGAIN. \n\nhttps://t.co/p6Lv5C37ne https://t.co/FSVKyMw4tr",
       "url": "https://x.com/HiTw93/status/2110371329354698962",
-      "likes": 543,
-      "bookmarks": 260,
+      "likes": 548,
+      "bookmarks": 262,
       "reposts": 37,
-      "replies": 124,
-      "impressions": 252710
+      "replies": 125,
+      "impressions": 256242
     },
     {
       "id": "2110154365667336695",
       "created_at": "2026-10-13T23:43:00.000Z",
       "text": "教大家如何享受纯净舒服的推特时间线，不错过你的好友的高质量信息流。\n给到 Grok Bot 的提示词大概是这样，大伙也可以玩玩。\n\n每天晚上8点，帮我整理今天中文推特圈的精选\n\n来源是我关注的中文账号，加上你觉得不错的中文账号。只用 X 官方 API 读帖子，跟前一天去重。\n\n排版：\n- https://t.co/RP5dyVvHaf",
       "url": "https://x.com/HiTw93/status/2110154365667336695",
-      "likes": 884,
-      "bookmarks": 1186,
+      "likes": 885,
+      "bookmarks": 1181,
       "reposts": 102,
       "replies": 231,
-      "impressions": 81856
+      "impressions": 82240
     },
     {
       "id": "2110013637104668677",
@@ -512,8 +534,8 @@
       "likes": 346,
       "bookmarks": 75,
       "reposts": 6,
-      "replies": 146,
-      "impressions": 80950
+      "replies": 145,
+      "impressions": 81072
     },
     {
       "id": "2109953168952201219",
@@ -524,7 +546,7 @@
       "bookmarks": 39,
       "reposts": 8,
       "replies": 56,
-      "impressions": 23899
+      "impressions": 23984
     },
     {
       "id": "2109634433603281121",
@@ -535,7 +557,7 @@
       "bookmarks": 3,
       "reposts": 0,
       "replies": 1,
-      "impressions": 4246
+      "impressions": 4304
     },
     {
       "id": "2109632109136818245",
@@ -546,7 +568,7 @@
       "bookmarks": 95,
       "reposts": 19,
       "replies": 62,
-      "impressions": 73291
+      "impressions": 73486
     },
     {
       "id": "2109441875912622097",
@@ -557,7 +579,7 @@
       "bookmarks": 11,
       "reposts": 0,
       "replies": 15,
-      "impressions": 12383
+      "impressions": 12460
     },
     {
       "id": "2109201207311102354",
@@ -568,7 +590,7 @@
       "bookmarks": 2,
       "reposts": 0,
       "replies": 19,
-      "impressions": 14767
+      "impressions": 14829
     },
     {
       "id": "2109140119320134000",
@@ -579,18 +601,18 @@
       "bookmarks": 68,
       "reposts": 9,
       "replies": 119,
-      "impressions": 36301
+      "impressions": 36403
     },
     {
       "id": "2109066866820022721",
       "created_at": "2026-10-10T23:41:40.000Z",
       "text": "昨天晚上在多抓鱼线下淘到了一本非常厚实非常大的宝藏书，叫做《艺术：让人成为人》，一只手举起来甚至有点费劲。\n\n一早起来迫不及待看，内容非常不错，偏人文学通识，期待可以给后续做新产品带来些不一样的思考和输入。 https://t.co/ETqGE61LNt",
       "url": "https://x.com/HiTw93/status/2109066866820022721",
-      "likes": 167,
+      "likes": 168,
       "bookmarks": 114,
       "reposts": 5,
       "replies": 22,
-      "impressions": 18525
+      "impressions": 18594
     },
     {
       "id": "2108885190261268881",
@@ -601,7 +623,7 @@
       "bookmarks": 32,
       "reposts": 2,
       "replies": 38,
-      "impressions": 16210
+      "impressions": 16287
     },
     {
       "id": "2108748404562247720",
@@ -612,7 +634,7 @@
       "bookmarks": 0,
       "reposts": 1,
       "replies": 3,
-      "impressions": 4762
+      "impressions": 4808
     },
     {
       "id": "2108746255845503473",
@@ -623,7 +645,7 @@
       "bookmarks": 7,
       "reposts": 1,
       "replies": 52,
-      "impressions": 20526
+      "impressions": 20576
     },
     {
       "id": "2108739334337896932",
@@ -634,7 +656,7 @@
       "bookmarks": 1,
       "reposts": 0,
       "replies": 1,
-      "impressions": 3408
+      "impressions": 3452
     },
     {
       "id": "2108710089754599782",
@@ -645,7 +667,7 @@
       "bookmarks": 19,
       "reposts": 3,
       "replies": 87,
-      "impressions": 50447
+      "impressions": 50529
     },
     {
       "id": "2108580324628365692",
@@ -656,29 +678,29 @@
       "bookmarks": 0,
       "reposts": 0,
       "replies": 0,
-      "impressions": 3176
+      "impressions": 3218
     },
     {
       "id": "2108571284456288625",
       "created_at": "2026-10-09T14:52:24.000Z",
-      "text": "🦫 Mole is getting AI Cleanup &amp; Care. Old sessions, worktrees and unused AI tools kept piling up on my Mac.\n\nI'm building a way to review and clean them up, alongside caches and old versions. You choose which sessions to keep. Coming in the next release.\nhttps://t.co/b7nt1wfON2 https://t.co/snG650m4U7",
+      "text": "🦫 Mole is getting AI Cleanup & Care. Old sessions, worktrees and unused AI tools kept piling up on my Mac.\n\nI'm building a way to review and clean them up, alongside caches and old versions. You choose which sessions to keep. Coming in the next release.\nhttps://t.co/b7nt1wfON2 https://t.co/snG650m4U7",
       "url": "https://x.com/HiTw93/status/2108571284456288625",
       "likes": 74,
       "bookmarks": 5,
       "reposts": 2,
       "replies": 24,
-      "impressions": 11841
+      "impressions": 11888
     },
     {
       "id": "2108529294616256544",
       "created_at": "2026-10-09T12:05:33.000Z",
       "text": "我想说 Gemini 3.8 Flash High 是当前优化产品以及官网文案内容最好的模型，推荐有需求的小伙伴去试试。\n\n由于这几天我的Claude 以及 Codex 额度 以及好几个 Reset 都用完了，但是还有些事情要做，翻出了半年前当时 199 刀包的一年的 Gemini https://t.co/IcbdwfHYTV",
       "url": "https://x.com/HiTw93/status/2108529294616256544",
-      "likes": 381,
+      "likes": 380,
       "bookmarks": 241,
       "reposts": 18,
       "replies": 104,
-      "impressions": 44422
+      "impressions": 44538
     },
     {
       "id": "2108375734188450020",
@@ -689,7 +711,7 @@
       "bookmarks": 94,
       "reposts": 10,
       "replies": 11,
-      "impressions": 19961
+      "impressions": 20023
     },
     {
       "id": "2108209083128152198",
@@ -700,7 +722,7 @@
       "bookmarks": 15,
       "reposts": 1,
       "replies": 5,
-      "impressions": 17591
+      "impressions": 17633
     },
     {
       "id": "2107994904089841754",
@@ -711,7 +733,7 @@
       "bookmarks": 29,
       "reposts": 3,
       "replies": 10,
-      "impressions": 12292
+      "impressions": 12340
     },
     {
       "id": "2107844647271772631",
@@ -722,7 +744,7 @@
       "bookmarks": 8,
       "reposts": 2,
       "replies": 7,
-      "impressions": 9004
+      "impressions": 9046
     },
     {
       "id": "2107754213413724514",
@@ -733,7 +755,7 @@
       "bookmarks": 8,
       "reposts": 0,
       "replies": 17,
-      "impressions": 10596
+      "impressions": 10659
     },
     {
       "id": "2107686136722432450",
@@ -744,7 +766,7 @@
       "bookmarks": 1,
       "reposts": 0,
       "replies": 0,
-      "impressions": 3430
+      "impressions": 3466
     },
     {
       "id": "2107673987710964167",
@@ -755,7 +777,7 @@
       "bookmarks": 39,
       "reposts": 4,
       "replies": 46,
-      "impressions": 33681
+      "impressions": 33735
     },
     {
       "id": "2107453346516718039",
@@ -763,10 +785,10 @@
       "text": "最近给我每天都在使用的工程师合集技能 Waza 加上了一个很有用的操作以及回复规则，来源于 ASD-STE00，一套最开始用于航空维修文档的简化技术英文标准。\n\n最开始是看到 Andrej Karpathy 的推荐，让大模型参考这一套规范来解释事情，回复会更加易读，刚好晚上有空，我顺着看了看规范和官方的 AI https://t.co/pY7x33onEA",
       "url": "https://x.com/HiTw93/status/2107453346516718039",
       "likes": 327,
-      "bookmarks": 457,
+      "bookmarks": 456,
       "reposts": 32,
-      "replies": 27,
-      "impressions": 31737
+      "replies": 26,
+      "impressions": 31819
     },
     {
       "id": "2107297889722712194",
@@ -777,7 +799,7 @@
       "bookmarks": 29,
       "reposts": 3,
       "replies": 35,
-      "impressions": 21450
+      "impressions": 21494
     },
     {
       "id": "2107094655536095533",
@@ -788,29 +810,29 @@
       "bookmarks": 13,
       "reposts": 1,
       "replies": 14,
-      "impressions": 11668
+      "impressions": 11732
     },
     {
       "id": "2106964278507118794",
       "created_at": "2026-10-05T04:26:44.000Z",
-      "text": "🎉 终于终于 Mole 的自测验证 Mac 软件到了 800 个了，继续补充了不少非常难卸载的那种软件，以及基于这个过程补充了不少难找到的清理残留，甚至也给每一个软件的卸载记录详细步骤，方便没有购买 Mole 的小伙伴也可以参考，后续也会计划把这个移植到 Cli 里面去。\n https://t.co/KpKYhxPg6u https://t.co/MDFSZgGx3b https://t.co/yhBts29tlW",
+      "text": "🎉 终于终于 Mole 的自测验证 Mac 软件到了 800 个了，继续补充了不少非常难卸载的那种软件，以及基于这个过程补充了不少难找到的清理残留，甚至也给每一个软件的卸载记录详细步骤，方便没有购买 Mole 的小伙伴也可以参考，后续也会计划把这个移植到 Cli 里面去。\n https://t.co/KpKYhxPg6u https://t.co/MDFSZgGx3b https://t.co/yhBts29tlW",
       "url": "https://x.com/HiTw93/status/2106964278507118794",
       "likes": 184,
       "bookmarks": 57,
       "reposts": 8,
       "replies": 42,
-      "impressions": 49184
+      "impressions": 49255
     },
     {
       "id": "2106942051917152318",
       "created_at": "2026-10-05T02:58:24.000Z",
       "text": "看到任何 Claude 的奖励、问卷、邮件，建议不要点击、不要点击、不要点击，比如这个 250 刀的云额度，不要去点击，这家公司虽然模型非常厉害，但是行为可能不那么正派。 https://t.co/uyCz7PYWWc",
       "url": "https://x.com/HiTw93/status/2106942051917152318",
-      "likes": 260,
+      "likes": 259,
       "bookmarks": 25,
       "reposts": 4,
-      "replies": 122,
-      "impressions": 72289
+      "replies": 121,
+      "impressions": 72385
     },
     {
       "id": "2106324829104148583",
@@ -821,7 +843,7 @@
       "bookmarks": 88,
       "reposts": 3,
       "replies": 35,
-      "impressions": 28290
+      "impressions": 28356
     },
     {
       "id": "2106012934082347508",
@@ -832,139 +854,7 @@
       "bookmarks": 75,
       "reposts": 12,
       "replies": 48,
-      "impressions": 38800
-    },
-    {
-      "id": "2105509778307080627",
-      "created_at": "2026-10-01T04:07:04.000Z",
-      "text": "马上 Mole App 就可以帮助大家清理和维护 AI 工具在本地产生的东西了。\n\n利用这个假期，想着继续给大伙上一个 Mole 有用的功能，帮大家清理不再需要的 AI 缓存、旧会话和 worktree，卸载之前装过、很久没有用的 AI 工具。\n\n起源于之前一段时间，我一直在测试 700 https://t.co/X3Fzj1NkAj",
-      "url": "https://x.com/HiTw93/status/2105509778307080627",
-      "likes": 278,
-      "bookmarks": 55,
-      "reposts": 7,
-      "replies": 79,
-      "impressions": 23763
-    },
-    {
-      "id": "2105275880490832042",
-      "created_at": "2026-09-30T12:37:38.000Z",
-      "text": "继续补两家\n一家是黄氏椰子鸡，非常非常好吃鸡肉很嫩，我喜欢他们家蘸料加一点黄灯椒，芋头放里面也好吃\n\n还有一家是海南东方烤乳猪，吃过的最好吃的烤乳猪，非常香，还有酸辣蟹也非常好吃。\n\n此外一定要试试陵水的炒冰，用水果加奶还有冰做的，很好吃！ https://t.co/hPGTnBl8xD https://t.co/9ySkWQyBe8",
-      "url": "https://x.com/HiTw93/status/2105275880490832042",
-      "likes": 34,
-      "bookmarks": 15,
-      "reposts": 1,
-      "replies": 256,
-      "impressions": 13781
-    },
-    {
-      "id": "2105242672940384528",
-      "created_at": "2026-09-30T10:25:41.000Z",
-      "text": "果然，听劝非常有用，很多时候用户的反馈非常重要，于是我又优化了版本图标，非常感谢提建议小伙伴。\n\n之前有几个图标我自己觉得挺好，小伙伴却觉得不够好看或者不太习惯，我都继续优化了一个版本，比如「检查更新」之前用了一个下载的图标，被读成了下载，GPU https://t.co/tnRV3UNo4n https://t.co/KNSg7OqziZ",
-      "url": "https://x.com/HiTw93/status/2105242672940384528",
-      "likes": 74,
-      "bookmarks": 26,
-      "reposts": 1,
-      "replies": 28,
-      "impressions": 28263
-    },
-    {
-      "id": "2105166778502672676",
-      "created_at": "2026-09-30T05:24:06.000Z",
-      "text": "听劝 继续更新一个版本 https://t.co/jdiK7iMeQ1",
-      "url": "https://x.com/HiTw93/status/2105166778502672676",
-      "likes": 3,
-      "bookmarks": 1,
-      "reposts": 0,
-      "replies": 1,
-      "impressions": 2618
-    },
-    {
-      "id": "2105131795088032069",
-      "created_at": "2026-09-30T03:05:06.000Z",
-      "text": "想给大伙随便聊聊如何给产品进行一次图标升级，有哪些需要注意的以及可以优化的点。\n\n早上给 Mole 的图标进行了一次精细化的升级，之前使用的是系统的图标，对于简单的产品场景我感觉完全够用，不过细看会感觉缺少一点灵性的感觉。\n\n经过调研，比较适合做 App 产品 Icon 的有 Remix Icon 和 Phosphor https://t.co/99n6qvzjzM",
-      "url": "https://x.com/HiTw93/status/2105131795088032069",
-      "likes": 273,
-      "bookmarks": 236,
-      "reposts": 20,
-      "replies": 40,
-      "impressions": 88775
-    },
-    {
-      "id": "2104911458299724187",
-      "created_at": "2026-09-29T12:29:33.000Z",
-      "text": "正在使用 Mole 的小伙伴，一定不要错过菜单栏的 Runner的这个设置，里面有非常多的小动物，我最喜欢阿龙和阿鸡，还有阿鱼，非常感谢 Runcat Neo Apache开源项目提供的能力！ https://t.co/uMol4EwwDj https://t.co/n6lCVe9rUy",
-      "url": "https://x.com/HiTw93/status/2104911458299724187",
-      "likes": 47,
-      "bookmarks": 10,
-      "reposts": 0,
-      "replies": 28,
-      "impressions": 16827
-    },
-    {
-      "id": "2104906984214692075",
-      "created_at": "2026-09-29T12:11:46.000Z",
-      "text": "在陵水找到了一家非常好吃的酸粉\n看着非常苍蝇馆子\n甚至碗都是塑料袋套起来了\n但是味道一绝，酸粉、虾饼、清凉补都很不错\n下次小伙伴去陵水玩可以试试这家亚毛酸粉，很有海南特色 https://t.co/3aZTa7xi40",
-      "url": "https://x.com/HiTw93/status/2104906984214692075",
-      "likes": 35,
-      "bookmarks": 10,
-      "reposts": 2,
-      "replies": 195,
-      "impressions": 22256
-    },
-    {
-      "id": "2104812587695435872",
-      "created_at": "2026-09-29T05:56:41.000Z",
-      "text": "关于菜单栏动画图标的选择，欢迎大家打开 Mole 的设置界面，切到第三个 tab，里面有非常多的小动物形象可以选择，总能想到一个你特别喜欢的，这里特别感谢 Runcat Apache 开源的动画帧图。",
-      "url": "https://x.com/HiTw93/status/2104812587695435872",
-      "likes": 2,
-      "bookmarks": 1,
-      "reposts": 0,
-      "replies": 1,
-      "impressions": 3217
-    },
-    {
-      "id": "2104780135971086394",
-      "created_at": "2026-09-29T03:47:43.000Z",
-      "text": "发现不少小伙伴对 Mole 的菜单栏有诉求，一早起来我进行了一版优化。大伙可以看一看。\n\n因为平时我只展示 Runner 动画，其他的都不展示，对于菜单栏有强迫症的用户，或者有显示指标诉求的用户欢迎给我提各种建议，非常需要，放到下一个版本上线。 https://t.co/p71qpdJF38",
-      "url": "https://x.com/HiTw93/status/2104780135971086394",
-      "likes": 55,
-      "bookmarks": 15,
-      "reposts": 1,
-      "replies": 57,
-      "impressions": 32137
-    },
-    {
-      "id": "2104571616743309687",
-      "created_at": "2026-09-28T13:59:09.000Z",
-      "text": "Mole 1.15 is finally here! I tested and inspected 709 Mac apps to improve uninstall cleanup while keeping your files safe 🤯. \n\nCPU and memory usage are also grouped by app now, making it much easier to see what's using your Mac. \n\nUpdate now https://t.co/ky5LF1aKBS https://t.co/ENlYu0DQ4V",
-      "url": "https://x.com/HiTw93/status/2104571616743309687",
-      "likes": 149,
-      "bookmarks": 59,
-      "reposts": 11,
-      "replies": 25,
-      "impressions": 28432
-    },
-    {
-      "id": "2104515233381507265",
-      "created_at": "2026-09-28T10:15:06.000Z",
-      "text": "去年的刚好的这个时候，Mole Cli 开源版本诞生于三亚的一个泳池边，当时 Mac 在泳池边上的躺椅上，游一圈刚好一个对话。\n今年国庆假期的这个时候，Mole Windows 版本诞生于陵水酒店的泳池边，不过 Mac 在房间书桌上，那个会话应该还在跑，现在游玩刚好一个会话结束。 https://t.co/xGy8XugfFl",
-      "url": "https://x.com/HiTw93/status/2104515233381507265",
-      "likes": 98,
-      "bookmarks": 10,
-      "reposts": 1,
-      "replies": 29,
-      "impressions": 20049
-    },
-    {
-      "id": "2104421192929308818",
-      "created_at": "2026-09-28T04:01:25.000Z",
-      "text": "陵水玩几天再回家\n人少有风，但是晒\n来一个无人机无滤镜原生直出效果\n喜欢这种人少景好看的地方 https://t.co/SonmbPzMXd",
-      "url": "https://x.com/HiTw93/status/2104421192929308818",
-      "likes": 73,
-      "bookmarks": 11,
-      "reposts": 0,
-      "replies": 48,
-      "impressions": 18846
+      "impressions": 38888
     }
   ]
 }

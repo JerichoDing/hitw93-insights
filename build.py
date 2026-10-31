@@ -3,7 +3,7 @@ import json,html,datetime,collections
 D=json.load(open('data.json'));P=D['posts'];pr=D['profile']
 BJ=datetime.timezone(datetime.timedelta(hours=8))
 def bj(s):return datetime.datetime.fromisoformat(s.replace('Z','+00:00')).astimezone(BJ)
-THEMES=[('🛠 自家产品持续迭代',['Mole','MiaoYan','Kaku','Waza','Pake','license','图标']),
+THEMES=[('🛠 自家产品持续迭代',['Mole','MiaoYan','Kaku','Waza','Pake','Kami','license','图标']),
 ('🧭 多端客户端技术选型',['技术选型','Windows 软件','技术栈','书接','连载']),
 ('🤖 AI 编程工具实战',['Claude','Codex','ChatGPT','Gemini','Grok','opus','Agent','AI']),
 ('🌿 个人观点与生活',[''])]
@@ -33,7 +33,7 @@ mx=max(v[1] for v in day.values()) or 1;W=760;H=200;bw=W/len(day)
 bars=''.join(f'<rect x="{i*bw+1:.1f}" y="{H-20-(v[1]/mx)*(H-40):.1f}" width="{bw-2:.1f}" height="{(v[1]/mx)*(H-40):.1f}" rx="2"><title>{k:%m-%d}：{v[0]} 条，互动 {v[1]:,}</title></rect>'+(f'<text x="{i*bw+bw/2:.1f}" y="{H-4}">{k:%m-%d}</text>' if i%5==0 else '') for i,(k,v) in enumerate(day.items()))
 chart=f'<svg viewBox="0 0 {W} {H}" role="img" aria-label="每日互动">{bars}</svg>'
 heat=''.join(f'<div class="cell" style="--a:{min(v[0],6)/6:.2f}" title="{k:%m-%d}：{v[0]} 条"></div>' for k,v in day.items())
-INS=[('一个产品长期做，并且公开做','MiaoYan 做了 6 年才上 iPhone/iPad；Mole CLI 仅 10 月就发了 18 个版本，每个里程碑都发推讲清楚更新了什么。','https://x.com/HiTw93/status/2114354011843481793'),
+INS=[('一个产品长期做，并且公开做','MiaoYan 做了 6 年才上 iPhone/iPad；Mole CLI 仅 10 月就发了 18 个版本；Kami 1.20 补上图表校验、产品站配色与中韩移动端排版——每个里程碑都发推讲清楚更新了什么。','https://x.com/HiTw93/status/2116163296437104926'),
 ('用“笨功夫”建立壁垒','手工自测 800 款 Mac 软件、372 款 Windows 软件的卸载，逐一重发 400+ 封许可证邮件——这些细节 AI 堆不出来。','https://x.com/HiTw93/status/2106964278507118794'),
 ('开源引流，付费变现','Mole CLI 开源收获 7.28 万 Star，图形版（Mac/Windows $15.20）与 MiaoYan 移动端收费，同时接受 GitHub Sponsors。','https://x.com/HiTw93/status/2110371329354698962'),
 ('追着 AI 找新需求','给 Mole 加 “AI 清理与维护”：清理 Claude Code、Codex 的缓存、旧会话与 worktree，并提供 agent 可调用的 skill。','https://x.com/HiTw93/status/2105509778307080627'),
