@@ -2,111 +2,155 @@
  "profile": {
   "username": "HiTw93",
   "name": "Tw93",
-  "followers": 164899,
+  "followers": 164999,
   "following": 283,
-  "tweets": 11617,
-  "listed": 1369,
+  "tweets": 11698,
+  "listed": 1370,
   "description": "Pake · MiaoYan · Kaku · Waza · Kami"
  },
  "posts": [
+  {
+   "id": "2117177683784454624",
+   "created_at": "2026-11-02T08:51:09.000Z",
+   "text": "强迫症必备！\n这款屏幕清理湿纸巾擦完电脑屏幕和刚拆封时候一样的感觉！ https://t.co/wvJjR3M4cn",
+   "url": "https://x.com/HiTw93/status/2117177683784454624",
+   "likes": 130,
+   "bookmarks": 85,
+   "reposts": 4,
+   "replies": 37,
+   "impressions": 21276
+  },
+  {
+   "id": "2117053542297165895",
+   "created_at": "2026-11-02T00:37:52.000Z",
+   "text": "Mole 依然非常简单易用，但更加 Pro 了～\n终于支持网络和测试的能力了，此外点击状态面板上的每一个标签可以看到非常丰富的系统数据，欢迎喜欢尝鲜的小伙伴去打开设置里面的 beta 开关，等我正式版！ https://t.co/zMZJdjS4cT",
+   "url": "https://x.com/HiTw93/status/2117053542297165895",
+   "likes": 40,
+   "bookmarks": 9,
+   "reposts": 0,
+   "replies": 10,
+   "impressions": 8923
+  },
+  {
+   "id": "2116890236320092498",
+   "created_at": "2026-11-01T13:48:56.000Z",
+   "text": "One more thing, Mole is still simple, now it's also pro. \n\nSee which app eats your bandwidth, run a speed test, and hover any tag for Wi-Fi, disk and battery internals you'll never see unless you want them. Try it via Settings &gt; Receive beta updates.\n\nhttps://t.co/8TlrZxZDdf https://t.co/gjJNBOB4MJ",
+   "url": "https://x.com/HiTw93/status/2116890236320092498",
+   "likes": 398,
+   "bookmarks": 266,
+   "reposts": 19,
+   "replies": 31,
+   "impressions": 46343
+  },
+  {
+   "id": "2116817496175247392",
+   "created_at": "2026-11-01T08:59:54.000Z",
+   "text": "请 AI 机器号不要来刷评论，我的 Bot 每 15min 会自动检查来拉黑你们，此外有不小心误删的，非常抱歉，可以和我说。 https://t.co/swVjWgrW5c",
+   "url": "https://x.com/HiTw93/status/2116817496175247392",
+   "likes": 20,
+   "bookmarks": 1,
+   "reposts": 0,
+   "replies": 6,
+   "impressions": 4453
+  },
   {
    "id": "2116797957454401746",
    "created_at": "2026-11-01T07:42:15.000Z",
    "text": "有了 AI 以后写代码速度快了非常多，但是校验的速度其实还是不快的，特别是在 GitHub 上跑 Actions CI 的速度，下午花了一些时间对 Mole、Kaku、Pake 的 CI 全部彻底优化了一下，效果很不错，分享给大伙。\n\n你可以这样直接 Copy 下面给到你的 Agent，我们来看看可以帮你节约多少时间。",
    "url": "https://x.com/HiTw93/status/2116797957454401746",
-   "likes": 359,
-   "bookmarks": 376,
-   "reposts": 17,
-   "replies": 46,
-   "impressions": 18478
+   "likes": 702,
+   "bookmarks": 881,
+   "reposts": 42,
+   "replies": 75,
+   "impressions": 50645
   },
   {
    "id": "2116720090771230995",
    "created_at": "2026-11-01T02:32:51.000Z",
    "text": "M Stand 这个咸芝士拿铁热的好喝！\n小杯的量刚刚好，特别是第一口很不错！ https://t.co/RTFQ8YCkXE",
    "url": "https://x.com/HiTw93/status/2116720090771230995",
-   "likes": 36,
+   "likes": 45,
    "bookmarks": 2,
    "reposts": 0,
-   "replies": 8,
-   "impressions": 6260
+   "replies": 9,
+   "impressions": 9078
   },
   {
    "id": "2116526856547536902",
    "created_at": "2026-10-31T13:45:00.000Z",
    "text": "Sharing the 6 Chrome extensions I use every day.\n\n1. Maple Bookmarks, made by me. I keep Chrome's bookmark bar hidden and open my bookmarks in a popup with a shortcut.\n2. Maple NewTab, also made by me. A minimal new tab page that replaces Chrome's default and shows a beautiful https://t.co/5Fmr7a9YsU",
    "url": "https://x.com/HiTw93/status/2116526856547536902",
-   "likes": 447,
-   "bookmarks": 668,
-   "reposts": 32,
-   "replies": 20,
-   "impressions": 35361
+   "likes": 471,
+   "bookmarks": 711,
+   "reposts": 34,
+   "replies": 21,
+   "impressions": 39347
   },
   {
    "id": "2116318332387565839",
    "created_at": "2026-10-30T23:56:24.000Z",
    "text": "\"You've gotta touch it to believe it.\" Then you've gotta wipe it. https://t.co/HmGmgtsI4W",
    "url": "https://x.com/HiTw93/status/2116318332387565839",
-   "likes": 14,
-   "bookmarks": 0,
+   "likes": 16,
+   "bookmarks": 1,
    "reposts": 0,
    "replies": 4,
-   "impressions": 5572
+   "impressions": 8452
   },
   {
    "id": "2116163296437104926",
    "created_at": "2026-10-30T13:40:20.000Z",
    "text": "Kami 1.20 is out. Your AI writes the words, Kami gives them good paper.\n\nFrom the last three releases: charts drawn from data and checked before delivery, product sites in the product's own color, and Chinese and Korean pages that read well on iPhone.\n\nhttps://t.co/I80D90N6Ji https://t.co/onFdJPLFzK",
    "url": "https://x.com/HiTw93/status/2116163296437104926",
-   "likes": 121,
-   "bookmarks": 108,
+   "likes": 133,
+   "bookmarks": 128,
    "reposts": 4,
-   "replies": 7,
-   "impressions": 12498
+   "replies": 8,
+   "impressions": 14796
   },
   {
    "id": "2116075564520145260",
    "created_at": "2026-10-30T07:51:44.000Z",
    "text": "https://t.co/I8ep84hQNq",
    "url": "https://x.com/HiTw93/status/2116075564520145260",
-   "likes": 6,
+   "likes": 7,
    "bookmarks": 6,
    "reposts": 0,
    "replies": 0,
-   "impressions": 2012
+   "impressions": 2433
   },
   {
    "id": "2116074462059896969",
    "created_at": "2026-10-30T07:47:21.000Z",
    "text": "来一波回忆杀，我的博客居然写了快 12 年了，从 2014 年底开始写，当时还是稚嫩的大学生，更有趣的是框架还是十几年前比较火的 Ruby 的Jekyll，几乎没有改过版本，当然也是我在写了 2 年 PHP 后感觉前端更有意思，学习 JS 的第一个项目。\n\n翻到了当时写了一篇 Vue、Angular、Avalon 框架的比较，当时 https://t.co/rAiyU0awfk",
    "url": "https://x.com/HiTw93/status/2116074462059896969",
-   "likes": 155,
-   "bookmarks": 35,
-   "reposts": 0,
+   "likes": 157,
+   "bookmarks": 34,
+   "reposts": 1,
    "replies": 25,
-   "impressions": 14513
+   "impressions": 15936
   },
   {
    "id": "2115805352520282623",
    "created_at": "2026-10-29T13:58:00.000Z",
-   "text": "I spent an afternoon turning my AI coding habits into 20 rules that you and your agent can learn from together.\n\nBriefing\n1. Stop dictating the implementation. Describe the outcome you want. Models are good enough now, so aim high and don't worry that it can't be done.\n2. Give your agent the background and the goal: why it matters, who it's for, what great looks like. Then let go of the technical details.",
+   "text": "I spent an afternoon turning my AI coding habits into 20 rules that you and your agent can learn from together.\n\nBriefing\n1. Stop dictating the implementation. Describe the outcome you want. Models are good enough now, so aim high and don't worry that it can't be done.\n2. Give",
    "url": "https://x.com/HiTw93/status/2115805352520282623",
-   "likes": 728,
-   "bookmarks": 1025,
-   "reposts": 85,
+   "likes": 734,
+   "bookmarks": 1033,
+   "reposts": 86,
    "replies": 43,
-   "impressions": 44463
+   "impressions": 45610
   },
   {
    "id": "2115696282216067577",
    "created_at": "2026-10-29T06:44:36.000Z",
    "text": "今天化身做饭博主来教大伙如何整一个非常好吃的大闸蟹，如何蒸以及调灵魂料汁，哈哈这次我做得非常好吃。 https://t.co/qyFV05urkE",
    "url": "https://x.com/HiTw93/status/2115696282216067577",
-   "likes": 85,
-   "bookmarks": 27,
+   "likes": 86,
+   "bookmarks": 28,
    "reposts": 1,
    "replies": 23,
-   "impressions": 14466
+   "impressions": 14984
   },
   {
    "id": "2115590674494173573",
@@ -117,7 +161,7 @@
    "bookmarks": 9,
    "reposts": 1,
    "replies": 14,
-   "impressions": 14776
+   "impressions": 15149
   },
   {
    "id": "2115448387701182969",
@@ -128,7 +172,7 @@
    "bookmarks": 11,
    "reposts": 2,
    "replies": 7,
-   "impressions": 8776
+   "impressions": 9101
   },
   {
    "id": "2115372861397565831",
@@ -139,62 +183,62 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 7,
-   "impressions": 6421
+   "impressions": 6731
   },
   {
    "id": "2115366100221501540",
    "created_at": "2026-10-28T08:52:34.000Z",
    "text": "假如把我的 AI Coding 经验沉淀成一些最佳实践规则，可以给到大伙复用，会是怎么样的，于是乎，今天一下午我就在琢磨这个事情，手写反复调整后给到大伙，可以让你和你的 Agent 一起去学习。\n\n需求\n1. https://t.co/WA5Fi2XZ6B",
    "url": "https://x.com/HiTw93/status/2115366100221501540",
-   "likes": 1489,
-   "bookmarks": 1918,
+   "likes": 1500,
+   "bookmarks": 1928,
    "reposts": 185,
-   "replies": 116,
-   "impressions": 75668
+   "replies": 117,
+   "impressions": 77955
   },
   {
    "id": "2115075830955348064",
    "created_at": "2026-10-27T13:39:08.000Z",
    "text": "I started MiaoYan in 2020, and six years later it's on iPhone and iPad too. It's a native Markdown editor written in Swift, one App Store purchase covers Mac, iPhone and iPad with the same iCloud Drive folder, and the Mac app stays free and open source. \nhttps://t.co/QJcbNtnpr7 https://t.co/leiW7Teh9G",
    "url": "https://x.com/HiTw93/status/2115075830955348064",
-   "likes": 113,
-   "bookmarks": 66,
-   "reposts": 6,
-   "replies": 16,
-   "impressions": 29264
+   "likes": 112,
+   "bookmarks": 65,
+   "reposts": 5,
+   "replies": 15,
+   "impressions": 29571
   },
   {
    "id": "2115003746027757811",
    "created_at": "2026-10-27T08:52:42.000Z",
    "text": "笑死了，居然经常小伙伴问我如何把自己改造得不这么程序员，以及刚好双十一怎么买一些衣服来搭配一下，哈哈哈，真没想到系列，刚好这里理一理分享给大伙，说不定用得上。\n\n首先我认为不是先去买衣服，而是搜索一下周边比较不错的理发店，可以是之前自己理发价格的 double 的那种，然后约一个 Tony https://t.co/FrhBI02oXp",
    "url": "https://x.com/HiTw93/status/2115003746027757811",
-   "likes": 281,
-   "bookmarks": 161,
-   "reposts": 12,
-   "replies": 67,
-   "impressions": 34065
+   "likes": 311,
+   "bookmarks": 190,
+   "reposts": 14,
+   "replies": 68,
+   "impressions": 41784
   },
   {
    "id": "2114750773133562365",
    "created_at": "2026-10-26T16:07:29.000Z",
    "text": "看一下今晚发布的新 iPad mini8，立马冒出一句话苹果是在哪儿进货的 2026 年的还是 60hz 的 OLED 屏幕的？\n\n依然觉得我这两个小设备最适合我，完全可以不换 mini8 或者 duo 了。 https://t.co/pvOHyPGHfX",
    "url": "https://x.com/HiTw93/status/2114750773133562365",
-   "likes": 260,
+   "likes": 265,
    "bookmarks": 57,
    "reposts": 5,
-   "replies": 64,
-   "impressions": 95538
+   "replies": 67,
+   "impressions": 113128
   },
   {
    "id": "2114702036264767748",
    "created_at": "2026-10-26T12:53:49.000Z",
    "text": "https://t.co/V9tA0xTPsb",
    "url": "https://x.com/HiTw93/status/2114702036264767748",
-   "likes": 276,
-   "bookmarks": 283,
+   "likes": 275,
+   "bookmarks": 285,
    "reposts": 26,
    "replies": 22,
-   "impressions": 25628
+   "impressions": 26326
   },
   {
    "id": "2114652266590593103",
@@ -202,10 +246,10 @@
    "text": "潮流周刊居然已经写了 6 年多了，发布到了 287 期了，AI 时代前的产物，比 ChatGPT 的发布还早 2 年，欢迎大伙有事没事去看看 https://t.co/srC40uEkab ，找找有没有自己顺手的工具、不错的文章以及围观我的封面拍照，哈哈。 https://t.co/HvYsFkgKQc",
    "url": "https://x.com/HiTw93/status/2114652266590593103",
    "likes": 146,
-   "bookmarks": 51,
+   "bookmarks": 50,
    "reposts": 10,
    "replies": 23,
-   "impressions": 14592
+   "impressions": 14776
   },
   {
    "id": "2114354011843481793",
@@ -213,10 +257,10 @@
    "text": "Mole CLI just passed 72.8K stars, and October is its busiest month yet: 18 releases across Mac and Windows.\n\nThe Windows CLI now matches the Mac one, any AI agent can drive it with the official skill, and mo slim strips Intel code from universal apps.\n\nhttps://t.co/1OJi9vnet8 https://t.co/y4PGIQAnsd",
    "url": "https://x.com/HiTw93/status/2114354011843481793",
    "likes": 140,
-   "bookmarks": 78,
+   "bookmarks": 77,
    "reposts": 7,
    "replies": 21,
-   "impressions": 27774
+   "impressions": 28012
   },
   {
    "id": "2114298268880679212",
@@ -877,17 +921,6 @@
    "reposts": 3,
    "replies": 35,
    "impressions": 28356
-  },
-  {
-   "id": "2106012934082347508",
-   "created_at": "2026-10-02T13:26:25.000Z",
-   "text": "今天终于把拖了很久的事情，放到一天给做了，我把 Mole 从开售到9月底所有没有激活的用户全部发送了一封邮件，这个过程挺有感触，顺便又做了一个有趣小魔法功能。\n\n用 AI 写了一个简单的本地脚本把用户邮箱、Key 给列了，然后一封一封根据月份、国家语言把 license key https://t.co/B68aHrXRn1",
-   "url": "https://x.com/HiTw93/status/2106012934082347508",
-   "likes": 305,
-   "bookmarks": 75,
-   "reposts": 12,
-   "replies": 48,
-   "impressions": 38888
   }
  ]
 }
