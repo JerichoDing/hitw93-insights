@@ -2,67 +2,89 @@
  "profile": {
   "username": "HiTw93",
   "name": "Tw93",
-  "followers": 164999,
+  "followers": 165088,
   "following": 283,
-  "tweets": 11698,
-  "listed": 1370,
+  "tweets": 11761,
+  "listed": 1371,
   "description": "Pake · MiaoYan · Kaku · Waza · Kami"
  },
  "posts": [
+  {
+   "id": "2117521154747625813",
+   "created_at": "2026-11-03T07:35:59.000Z",
+   "text": "昨天有一个小伙伴私信问我，自己计算机专业，感觉现在 AI 可以完全代替他们的作业和论文，问我这个行业还有没有前景，以及对未来的一些建议。\n\n我在想假如我回到大四的那一年，我会怎么做让自己未来之路少踩坑，走得顺一点，当然自己见识浅薄有限，欢迎交流。\n\n1. 肯定还是会选择计算机方向，然后选择自己最感兴趣的子方向，借助 AI 协作极大放大这一块的效果，好比一毕业就有一种带团队干活的感觉。\n\n2. 选择北上深杭这样技术氛围好，科技行业多的城市，假如学历和技术足够厉害，就去北京清华以南北大以东学院路以西大钟寺以北这个区域内找一个合适的AI 公司工作，这样对于 AI 大模型的敏锐度会远高于其他的地方。\n\n3. 工作时候，快速完成工作，愿意投资好的 AI  Token 帮助自己快速做好事情，对于自己感兴趣的项目做到 150%的效果，对于不感兴趣的项目做到80分合格但是效率最高，不浪费时间，这样才有时间去学习更多的东西，非常积极的拥抱新事物，愿意花钱投资最好 AI 的使用。\n\n4. 把工资的一半拿来投资 VOO、QQQ，当做定投，当然也可以选择自己极度看好的一两个科技公司，比如英伟达、苹果以及未来的要上市的 Anthropic，不碰任何 A 股、港股，不投机。\n\n5. 更早的时候找到自己的另一半，不要拖到工作几年以后，多看另一半处理问题时候的能力和耐心，在意你的感受，乐观，出什么事情都站到你这边的那个。\n\n6. 不要借钱任何人包括亲戚、同学、老乡，借钱会让年轻的你心情不好，不要炫耀自己赚了多少钱，也不乱花钱，先让自己的第一桶金能够到你感觉即使2年不工作也可以过得很舒服的地步。\n\n7. 保持持续学习，持续交流，持续创造一些好玩的东西给到社区、圈子、推特，不逐利的去做自己的 GitHub、X 等账号，形成自己的个人品牌，永远抱着用户是好人的心态去提供服务。\n\n8. 专业工作之外，培养自己的兴趣点，可以去上一些课，不管是摄影、乐器、运动甚至是跑步骑行这种，这样会让你工作之外，不会太无聊，也会让你可以多出去走走。\n\n9. 身体健康永远放到第一位，睡眠很重要，一定不要熬夜，不要久坐，多喝水，多走走挺好的，以及工作不要干太猛，别一鼓作气再而衰，把自己可以工作的战线拉得更长一点。\n\n10. 最终尽早找到自己让自己不上班的自由之路，可以工作但是可以不上班，通过自己的兴趣、专业、特长、学习去赚钱，并持续的在这个过程提高自己，很高兴的把钱赚了。",
+   "url": "https://x.com/HiTw93/status/2117521154747625813",
+   "likes": 754,
+   "bookmarks": 416,
+   "reposts": 75,
+   "replies": 93,
+   "impressions": 41188
+  },
+  {
+   "id": "2117254652404044064",
+   "created_at": "2026-11-02T13:57:00.000Z",
+   "text": "With AI, writing code has gotten way faster, but verification is still slow, especially waiting on GitHub Actions CI. I spent this afternoon giving the CI for Mole, Kaku and Pake a full overhaul, and the results were great, so I want to share what I learned.\n\nJust copy the prompt below and hand it to your agent, and let's see how much time it saves you.\n\nSpeed up this repo's GitHub Actions as much as possible without dropping any necessary tests or checks.\n\n1. Start by using gh to pull the last 50 runs and split each job into three phases: queue, setup and the actual test run. Look for patterns. Often the slow part is setup, not the tests themselves.\n2. When a PR gets several pushes in a row, only run the latest one and cancel the older runs with cancel-in-progress. Don't do this on main, though: every commit on main needs a complete run before a release.\n3. Commits that only touch the README or docs shouldn't trigger CI, so filter them out with paths. Watch out: a required check that gets skipped stays pending and blocks the PR from merging, so plan for that up front.\n4. Prefer the built-in caching in setup actions: turn on cache in setup-node, setup-go has it on by default, and use Swatinem/rust-cache for Rust. Each repo only gets 10 GB of cache, so don't put anything in there you won't actually reuse.\n5. Build twice in a row locally. The second build should take almost no time. If something still takes time, something is set up wrong, like a Dockerfile that copies the whole repo before installing dependencies, or a build script watching a file that doesn't exist. Check for anything similar.\n6. Download prebuilt tools instead of compiling them on the spot with go install or cargo install, which eats a lot of time.\n7. Run jobs that don't depend on each other in parallel, remove needs edges that don't pass any data, and split your longest test suite across multiple machines.\n8. Free accounts can run at most 5 macOS jobs at once, shared across all workflows. Move anything that doesn't care about the OS, like formatting, linting and dependency audits, over to Ubuntu.\n9. Don't do the same work twice, and don't do work you don't need. If another job already ran a check, don't run it again, and a job that only builds the frontend doesn't need to pull the whole Rust cache.\n10. Once you're done, push and watch how the runs actually perform. Look at the timings, find the patterns, then do another pass to catch what you missed and get it as good as it can be. Finally, show me a before and after comparison.",
+   "url": "https://x.com/HiTw93/status/2117254652404044064",
+   "likes": 204,
+   "bookmarks": 244,
+   "reposts": 14,
+   "replies": 32,
+   "impressions": 18637
+  },
   {
    "id": "2117177683784454624",
    "created_at": "2026-11-02T08:51:09.000Z",
    "text": "强迫症必备！\n这款屏幕清理湿纸巾擦完电脑屏幕和刚拆封时候一样的感觉！ https://t.co/wvJjR3M4cn",
    "url": "https://x.com/HiTw93/status/2117177683784454624",
-   "likes": 130,
-   "bookmarks": 85,
-   "reposts": 4,
-   "replies": 37,
-   "impressions": 21276
+   "likes": 276,
+   "bookmarks": 186,
+   "reposts": 9,
+   "replies": 59,
+   "impressions": 55205
   },
   {
    "id": "2117053542297165895",
    "created_at": "2026-11-02T00:37:52.000Z",
    "text": "Mole 依然非常简单易用，但更加 Pro 了～\n终于支持网络和测试的能力了，此外点击状态面板上的每一个标签可以看到非常丰富的系统数据，欢迎喜欢尝鲜的小伙伴去打开设置里面的 beta 开关，等我正式版！ https://t.co/zMZJdjS4cT",
    "url": "https://x.com/HiTw93/status/2117053542297165895",
-   "likes": 40,
-   "bookmarks": 9,
+   "likes": 51,
+   "bookmarks": 11,
    "reposts": 0,
-   "replies": 10,
-   "impressions": 8923
+   "replies": 15,
+   "impressions": 11714
   },
   {
    "id": "2116890236320092498",
    "created_at": "2026-11-01T13:48:56.000Z",
    "text": "One more thing, Mole is still simple, now it's also pro. \n\nSee which app eats your bandwidth, run a speed test, and hover any tag for Wi-Fi, disk and battery internals you'll never see unless you want them. Try it via Settings &gt; Receive beta updates.\n\nhttps://t.co/8TlrZxZDdf https://t.co/gjJNBOB4MJ",
    "url": "https://x.com/HiTw93/status/2116890236320092498",
-   "likes": 398,
-   "bookmarks": 266,
+   "likes": 418,
+   "bookmarks": 275,
    "reposts": 19,
-   "replies": 31,
-   "impressions": 46343
+   "replies": 32,
+   "impressions": 52388
   },
   {
    "id": "2116817496175247392",
    "created_at": "2026-11-01T08:59:54.000Z",
    "text": "请 AI 机器号不要来刷评论，我的 Bot 每 15min 会自动检查来拉黑你们，此外有不小心误删的，非常抱歉，可以和我说。 https://t.co/swVjWgrW5c",
    "url": "https://x.com/HiTw93/status/2116817496175247392",
-   "likes": 20,
+   "likes": 21,
    "bookmarks": 1,
    "reposts": 0,
    "replies": 6,
-   "impressions": 4453
+   "impressions": 5024
   },
   {
    "id": "2116797957454401746",
    "created_at": "2026-11-01T07:42:15.000Z",
    "text": "有了 AI 以后写代码速度快了非常多，但是校验的速度其实还是不快的，特别是在 GitHub 上跑 Actions CI 的速度，下午花了一些时间对 Mole、Kaku、Pake 的 CI 全部彻底优化了一下，效果很不错，分享给大伙。\n\n你可以这样直接 Copy 下面给到你的 Agent，我们来看看可以帮你节约多少时间。",
    "url": "https://x.com/HiTw93/status/2116797957454401746",
-   "likes": 702,
-   "bookmarks": 881,
-   "reposts": 42,
-   "replies": 75,
-   "impressions": 50645
+   "likes": 737,
+   "bookmarks": 917,
+   "reposts": 46,
+   "replies": 80,
+   "impressions": 54685
   },
   {
    "id": "2116720090771230995",
@@ -70,21 +92,21 @@
    "text": "M Stand 这个咸芝士拿铁热的好喝！\n小杯的量刚刚好，特别是第一口很不错！ https://t.co/RTFQ8YCkXE",
    "url": "https://x.com/HiTw93/status/2116720090771230995",
    "likes": 45,
-   "bookmarks": 2,
+   "bookmarks": 3,
    "reposts": 0,
-   "replies": 9,
-   "impressions": 9078
+   "replies": 10,
+   "impressions": 9667
   },
   {
    "id": "2116526856547536902",
    "created_at": "2026-10-31T13:45:00.000Z",
    "text": "Sharing the 6 Chrome extensions I use every day.\n\n1. Maple Bookmarks, made by me. I keep Chrome's bookmark bar hidden and open my bookmarks in a popup with a shortcut.\n2. Maple NewTab, also made by me. A minimal new tab page that replaces Chrome's default and shows a beautiful https://t.co/5Fmr7a9YsU",
    "url": "https://x.com/HiTw93/status/2116526856547536902",
-   "likes": 471,
-   "bookmarks": 711,
+   "likes": 469,
+   "bookmarks": 707,
    "reposts": 34,
    "replies": 21,
-   "impressions": 39347
+   "impressions": 39997
   },
   {
    "id": "2116318332387565839",
@@ -95,7 +117,7 @@
    "bookmarks": 1,
    "reposts": 0,
    "replies": 4,
-   "impressions": 8452
+   "impressions": 8686
   },
   {
    "id": "2116163296437104926",
@@ -103,43 +125,43 @@
    "text": "Kami 1.20 is out. Your AI writes the words, Kami gives them good paper.\n\nFrom the last three releases: charts drawn from data and checked before delivery, product sites in the product's own color, and Chinese and Korean pages that read well on iPhone.\n\nhttps://t.co/I80D90N6Ji https://t.co/onFdJPLFzK",
    "url": "https://x.com/HiTw93/status/2116163296437104926",
    "likes": 133,
-   "bookmarks": 128,
+   "bookmarks": 130,
    "reposts": 4,
    "replies": 8,
-   "impressions": 14796
+   "impressions": 15031
   },
   {
    "id": "2116075564520145260",
    "created_at": "2026-10-30T07:51:44.000Z",
    "text": "https://t.co/I8ep84hQNq",
    "url": "https://x.com/HiTw93/status/2116075564520145260",
-   "likes": 7,
+   "likes": 8,
    "bookmarks": 6,
    "reposts": 0,
    "replies": 0,
-   "impressions": 2433
+   "impressions": 2575
   },
   {
    "id": "2116074462059896969",
    "created_at": "2026-10-30T07:47:21.000Z",
    "text": "来一波回忆杀，我的博客居然写了快 12 年了，从 2014 年底开始写，当时还是稚嫩的大学生，更有趣的是框架还是十几年前比较火的 Ruby 的Jekyll，几乎没有改过版本，当然也是我在写了 2 年 PHP 后感觉前端更有意思，学习 JS 的第一个项目。\n\n翻到了当时写了一篇 Vue、Angular、Avalon 框架的比较，当时 https://t.co/rAiyU0awfk",
    "url": "https://x.com/HiTw93/status/2116074462059896969",
-   "likes": 157,
+   "likes": 158,
    "bookmarks": 34,
    "reposts": 1,
    "replies": 25,
-   "impressions": 15936
+   "impressions": 16187
   },
   {
    "id": "2115805352520282623",
    "created_at": "2026-10-29T13:58:00.000Z",
    "text": "I spent an afternoon turning my AI coding habits into 20 rules that you and your agent can learn from together.\n\nBriefing\n1. Stop dictating the implementation. Describe the outcome you want. Models are good enough now, so aim high and don't worry that it can't be done.\n2. Give",
    "url": "https://x.com/HiTw93/status/2115805352520282623",
-   "likes": 734,
-   "bookmarks": 1033,
+   "likes": 735,
+   "bookmarks": 1030,
    "reposts": 86,
-   "replies": 43,
-   "impressions": 45610
+   "replies": 45,
+   "impressions": 45962
   },
   {
    "id": "2115696282216067577",
@@ -147,10 +169,10 @@
    "text": "今天化身做饭博主来教大伙如何整一个非常好吃的大闸蟹，如何蒸以及调灵魂料汁，哈哈这次我做得非常好吃。 https://t.co/qyFV05urkE",
    "url": "https://x.com/HiTw93/status/2115696282216067577",
    "likes": 86,
-   "bookmarks": 28,
+   "bookmarks": 27,
    "reposts": 1,
    "replies": 23,
-   "impressions": 14984
+   "impressions": 15174
   },
   {
    "id": "2115590674494173573",
@@ -161,7 +183,7 @@
    "bookmarks": 9,
    "reposts": 1,
    "replies": 14,
-   "impressions": 15149
+   "impressions": 15295
   },
   {
    "id": "2115448387701182969",
@@ -172,7 +194,7 @@
    "bookmarks": 11,
    "reposts": 2,
    "replies": 7,
-   "impressions": 9101
+   "impressions": 9229
   },
   {
    "id": "2115372861397565831",
@@ -183,7 +205,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 7,
-   "impressions": 6731
+   "impressions": 6856
   },
   {
    "id": "2115366100221501540",
@@ -191,10 +213,10 @@
    "text": "假如把我的 AI Coding 经验沉淀成一些最佳实践规则，可以给到大伙复用，会是怎么样的，于是乎，今天一下午我就在琢磨这个事情，手写反复调整后给到大伙，可以让你和你的 Agent 一起去学习。\n\n需求\n1. https://t.co/WA5Fi2XZ6B",
    "url": "https://x.com/HiTw93/status/2115366100221501540",
    "likes": 1500,
-   "bookmarks": 1928,
+   "bookmarks": 1927,
    "reposts": 185,
    "replies": 117,
-   "impressions": 77955
+   "impressions": 78897
   },
   {
    "id": "2115075830955348064",
@@ -205,7 +227,7 @@
    "bookmarks": 65,
    "reposts": 5,
    "replies": 15,
-   "impressions": 29571
+   "impressions": 29725
   },
   {
    "id": "2115003746027757811",
@@ -213,10 +235,10 @@
    "text": "笑死了，居然经常小伙伴问我如何把自己改造得不这么程序员，以及刚好双十一怎么买一些衣服来搭配一下，哈哈哈，真没想到系列，刚好这里理一理分享给大伙，说不定用得上。\n\n首先我认为不是先去买衣服，而是搜索一下周边比较不错的理发店，可以是之前自己理发价格的 double 的那种，然后约一个 Tony https://t.co/FrhBI02oXp",
    "url": "https://x.com/HiTw93/status/2115003746027757811",
    "likes": 311,
-   "bookmarks": 190,
+   "bookmarks": 191,
    "reposts": 14,
    "replies": 68,
-   "impressions": 41784
+   "impressions": 42340
   },
   {
    "id": "2114750773133562365",
@@ -227,18 +249,18 @@
    "bookmarks": 57,
    "reposts": 5,
    "replies": 67,
-   "impressions": 113128
+   "impressions": 113511
   },
   {
    "id": "2114702036264767748",
    "created_at": "2026-10-26T12:53:49.000Z",
    "text": "https://t.co/V9tA0xTPsb",
    "url": "https://x.com/HiTw93/status/2114702036264767748",
-   "likes": 275,
+   "likes": 276,
    "bookmarks": 285,
    "reposts": 26,
    "replies": 22,
-   "impressions": 26326
+   "impressions": 26538
   },
   {
    "id": "2114652266590593103",
@@ -910,17 +932,6 @@
    "reposts": 4,
    "replies": 121,
    "impressions": 72385
-  },
-  {
-   "id": "2106324829104148583",
-   "created_at": "2026-10-03T10:05:47.000Z",
-   "text": "最近看到有一些朋友 GitHub 被封了，其实挺麻烦，应该是通过一些自动化的 Agent 模拟浏览器操作违反了官方规定。\n\n小伙们们用各种 Agent 时候，特别是最近大火的各种 Personal Agent时候，建议给他加一条硬规则，不要直接通过浏览器自动化操作自己的重要账号，尤其是 X、Reddit、小红书，以及 https://t.co/HQhM2NNKrq",
-   "url": "https://x.com/HiTw93/status/2106324829104148583",
-   "likes": 130,
-   "bookmarks": 88,
-   "reposts": 3,
-   "replies": 35,
-   "impressions": 28356
   }
  ]
 }
