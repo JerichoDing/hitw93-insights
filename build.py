@@ -3,7 +3,7 @@ import json,html,datetime,collections
 D=json.load(open('data.json'));P=D['posts'];pr=D['profile']
 BJ=datetime.timezone(datetime.timedelta(hours=8))
 def bj(s):return datetime.datetime.fromisoformat(s.replace('Z','+00:00')).astimezone(BJ)
-THEMES=[('🛠 自家产品持续迭代',['Mole','MiaoYan','Kaku','Waza','Pake','Kami','Maple','license','图标']),
+THEMES=[('🛠 自家产品持续迭代',['Mole','MiaoYan','Kaku','Waza','Pake','Kami','Maple','license','图标','Markdown 笔记']),
 ('🧭 多端客户端技术选型',['技术选型','Windows 软件','技术栈','书接','连载']),
 ('🤖 AI 编程工具实战',['Claude','Codex','ChatGPT','Gemini','Grok','opus','Agent','AI']),
 ('🌿 个人观点与生活',[''])]

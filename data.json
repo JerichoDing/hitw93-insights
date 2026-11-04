@@ -2,13 +2,24 @@
  "profile": {
   "username": "HiTw93",
   "name": "Tw93",
-  "followers": 165088,
+  "followers": 165254,
   "following": 283,
-  "tweets": 11761,
-  "listed": 1371,
+  "tweets": 11789,
+  "listed": 1374,
   "description": "Pake · MiaoYan · Kaku · Waza · Kami"
  },
  "posts": [
+  {
+   "id": "2117903730494591205",
+   "created_at": "2026-11-04T08:56:12.000Z",
+   "text": "都有 AI 了，还手写文档的小伙伴应该不多了，有一种邪不压正里面这年头“正经人谁写日记啊” 这种味道，后面可预计真正不借助 AI 写文章的场景会越来越少了。\n\n其实我在 7 年前就开始想一个好用的 Markdown 笔记应用应该是怎么样的？我认为首先是完全 md https://t.co/JlXhShI0LV",
+   "url": "https://x.com/HiTw93/status/2117903730494591205",
+   "likes": 83,
+   "bookmarks": 47,
+   "reposts": 8,
+   "replies": 23,
+   "impressions": 10947
+  },
   {
    "id": "2117521154747625813",
    "created_at": "2026-11-03T07:35:59.000Z",
