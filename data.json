@@ -2,34 +2,67 @@
  "profile": {
   "username": "HiTw93",
   "name": "Tw93",
-  "followers": 165254,
+  "followers": 165328,
   "following": 283,
-  "tweets": 11789,
-  "listed": 1374,
+  "tweets": 11842,
+  "listed": 1378,
   "description": "Pake · MiaoYan · Kaku · Waza · Kami"
  },
  "posts": [
+  {
+   "id": "2118260222338924987",
+   "created_at": "2026-11-05T08:32:47.000Z",
+   "text": "🧑‍🚒 假如你的朋友需要发小红书，一定要把 Kami 推荐给他\n最近 Kami 终于把我用了半年多的社交图功能给加上了，好内容值得好排版\n只要告诉你的 Agent 说用 Kami 帮你把内容变成小红书卡片形式\n那么就可以得到这种漂亮的效果了，甚至我还精挑细选了 8 种不同的底色\nhttps://t.co/T7xhpS70kW https://t.co/WR1I6MTE2L",
+   "url": "https://x.com/HiTw93/status/2118260222338924987",
+   "likes": 141,
+   "bookmarks": 128,
+   "reposts": 6,
+   "replies": 13,
+   "impressions": 11328
+  },
+  {
+   "id": "2118138921628668294",
+   "created_at": "2026-11-05T00:30:46.000Z",
+   "text": "疯狂推荐这个漱口水\n这些年我大概买了快 30 瓶了\n很好用，不辣，每次吃完饭用很清新 https://t.co/nKFyKZbDTa",
+   "url": "https://x.com/HiTw93/status/2118138921628668294",
+   "likes": 253,
+   "bookmarks": 208,
+   "reposts": 8,
+   "replies": 55,
+   "impressions": 22219
+  },
+  {
+   "id": "2117978672095514999",
+   "created_at": "2026-11-04T13:54:00.000Z",
+   "text": "One more thing, Mole CLI just landed on Linux, free and open source forever, as on Mac and Windows.\n\n27 releases and 900+ commits in the past month. Linux went from first commit to 0.4.0 in four days, with the same menu, keys and safety rules as the Mac.\n\nhttps://t.co/1OJi9vnet8 https://t.co/cHX7A2MCTV",
+   "url": "https://x.com/HiTw93/status/2117978672095514999",
+   "likes": 93,
+   "bookmarks": 41,
+   "reposts": 5,
+   "replies": 15,
+   "impressions": 13570
+  },
   {
    "id": "2117903730494591205",
    "created_at": "2026-11-04T08:56:12.000Z",
    "text": "都有 AI 了，还手写文档的小伙伴应该不多了，有一种邪不压正里面这年头“正经人谁写日记啊” 这种味道，后面可预计真正不借助 AI 写文章的场景会越来越少了。\n\n其实我在 7 年前就开始想一个好用的 Markdown 笔记应用应该是怎么样的？我认为首先是完全 md https://t.co/JlXhShI0LV",
    "url": "https://x.com/HiTw93/status/2117903730494591205",
-   "likes": 83,
-   "bookmarks": 47,
-   "reposts": 8,
-   "replies": 23,
-   "impressions": 10947
+   "likes": 156,
+   "bookmarks": 104,
+   "reposts": 15,
+   "replies": 34,
+   "impressions": 23198
   },
   {
    "id": "2117521154747625813",
    "created_at": "2026-11-03T07:35:59.000Z",
    "text": "昨天有一个小伙伴私信问我，自己计算机专业，感觉现在 AI 可以完全代替他们的作业和论文，问我这个行业还有没有前景，以及对未来的一些建议。\n\n我在想假如我回到大四的那一年，我会怎么做让自己未来之路少踩坑，走得顺一点，当然自己见识浅薄有限，欢迎交流。\n\n1. 肯定还是会选择计算机方向，然后选择自己最感兴趣的子方向，借助 AI 协作极大放大这一块的效果，好比一毕业就有一种带团队干活的感觉。\n\n2. 选择北上深杭这样技术氛围好，科技行业多的城市，假如学历和技术足够厉害，就去北京清华以南北大以东学院路以西大钟寺以北这个区域内找一个合适的AI 公司工作，这样对于 AI 大模型的敏锐度会远高于其他的地方。\n\n3. 工作时候，快速完成工作，愿意投资好的 AI  Token 帮助自己快速做好事情，对于自己感兴趣的项目做到 150%的效果，对于不感兴趣的项目做到80分合格但是效率最高，不浪费时间，这样才有时间去学习更多的东西，非常积极的拥抱新事物，愿意花钱投资最好 AI 的使用。\n\n4. 把工资的一半拿来投资 VOO、QQQ，当做定投，当然也可以选择自己极度看好的一两个科技公司，比如英伟达、苹果以及未来的要上市的 Anthropic，不碰任何 A 股、港股，不投机。\n\n5. 更早的时候找到自己的另一半，不要拖到工作几年以后，多看另一半处理问题时候的能力和耐心，在意你的感受，乐观，出什么事情都站到你这边的那个。\n\n6. 不要借钱任何人包括亲戚、同学、老乡，借钱会让年轻的你心情不好，不要炫耀自己赚了多少钱，也不乱花钱，先让自己的第一桶金能够到你感觉即使2年不工作也可以过得很舒服的地步。\n\n7. 保持持续学习，持续交流，持续创造一些好玩的东西给到社区、圈子、推特，不逐利的去做自己的 GitHub、X 等账号，形成自己的个人品牌，永远抱着用户是好人的心态去提供服务。\n\n8. 专业工作之外，培养自己的兴趣点，可以去上一些课，不管是摄影、乐器、运动甚至是跑步骑行这种，这样会让你工作之外，不会太无聊，也会让你可以多出去走走。\n\n9. 身体健康永远放到第一位，睡眠很重要，一定不要熬夜，不要久坐，多喝水，多走走挺好的，以及工作不要干太猛，别一鼓作气再而衰，把自己可以工作的战线拉得更长一点。\n\n10. 最终尽早找到自己让自己不上班的自由之路，可以工作但是可以不上班，通过自己的兴趣、专业、特长、学习去赚钱，并持续的在这个过程提高自己，很高兴的把钱赚了。",
    "url": "https://x.com/HiTw93/status/2117521154747625813",
-   "likes": 754,
-   "bookmarks": 416,
-   "reposts": 75,
-   "replies": 93,
-   "impressions": 41188
+   "likes": 1413,
+   "bookmarks": 895,
+   "reposts": 137,
+   "replies": 150,
+   "impressions": 101756
   },
   {
    "id": "2117254652404044064",
@@ -899,50 +932,6 @@
    "reposts": 32,
    "replies": 26,
    "impressions": 31819
-  },
-  {
-   "id": "2107297889722712194",
-   "created_at": "2026-10-06T02:32:23.000Z",
-   "text": "《岁月神偷》这部香港电影很好看，时隔十年再次一看，还是很好看，很温情，推荐想看剧小伙伴一看。 https://t.co/xCTN0kbjuD",
-   "url": "https://x.com/HiTw93/status/2107297889722712194",
-   "likes": 84,
-   "bookmarks": 29,
-   "reposts": 3,
-   "replies": 35,
-   "impressions": 21494
-  },
-  {
-   "id": "2107094655536095533",
-   "created_at": "2026-10-05T13:04:48.000Z",
-   "text": "Mole 里面的这些小细节不知道大伙有没有发现，启动擦屏幕的时候整屏会黑掉，然后键盘会锁住，然后屏幕上会随机出现一句诗，刚好你读完想完 2 分钟，屏幕也擦干净了。 https://t.co/yj1BRWQnjx",
-   "url": "https://x.com/HiTw93/status/2107094655536095533",
-   "likes": 67,
-   "bookmarks": 13,
-   "reposts": 1,
-   "replies": 14,
-   "impressions": 11732
-  },
-  {
-   "id": "2106964278507118794",
-   "created_at": "2026-10-05T04:26:44.000Z",
-   "text": "🎉 终于终于 Mole 的自测验证 Mac 软件到了 800 个了，继续补充了不少非常难卸载的那种软件，以及基于这个过程补充了不少难找到的清理残留，甚至也给每一个软件的卸载记录详细步骤，方便没有购买 Mole 的小伙伴也可以参考，后续也会计划把这个移植到 Cli 里面去。\n https://t.co/KpKYhxPg6u https://t.co/MDFSZgGx3b https://t.co/yhBts29tlW",
-   "url": "https://x.com/HiTw93/status/2106964278507118794",
-   "likes": 184,
-   "bookmarks": 57,
-   "reposts": 8,
-   "replies": 42,
-   "impressions": 49255
-  },
-  {
-   "id": "2106942051917152318",
-   "created_at": "2026-10-05T02:58:24.000Z",
-   "text": "看到任何 Claude 的奖励、问卷、邮件，建议不要点击、不要点击、不要点击，比如这个 250 刀的云额度，不要去点击，这家公司虽然模型非常厉害，但是行为可能不那么正派。 https://t.co/uyCz7PYWWc",
-   "url": "https://x.com/HiTw93/status/2106942051917152318",
-   "likes": 259,
-   "bookmarks": 25,
-   "reposts": 4,
-   "replies": 121,
-   "impressions": 72385
   }
  ]
 }
