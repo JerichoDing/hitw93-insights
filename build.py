@@ -5,7 +5,7 @@ BJ=datetime.timezone(datetime.timedelta(hours=8))
 def bj(s):return datetime.datetime.fromisoformat(s.replace('Z','+00:00')).astimezone(BJ)
 THEMES=[('🛠 自家产品持续迭代',['Mole','MiaoYan','Kaku','Waza','Pake','Kami','Maple','license','图标','Markdown 笔记']),
 ('🧭 多端客户端技术选型',['技术选型','Windows 软件','技术栈','书接','连载']),
-('🤖 AI 编程工具实战',['Claude','Codex','ChatGPT','Gemini','Grok','opus','Agent','AI']),
+('🤖 AI 编程工具实战',['Claude','Codex','ChatGPT','Gemini','Grok','opus','Agent','AI','AI Slop','产品设计']),
 ('🌿 个人观点与生活',[''])]
 def theme(t):
   for n,ks in THEMES:
@@ -37,7 +37,7 @@ INS=[('一个产品长期做，并且公开做','MiaoYan 做了 6 年才上 iPho
 ('用“笨功夫”建立壁垒','手工自测 800 款 Mac 软件、372 款 Windows 软件的卸载，逐一重发 400+ 封许可证邮件——这些细节 AI 堆不出来。','https://x.com/HiTw93/status/2106964278507118794'),
 ('开源引流，付费变现','Mole CLI 开源收获 7.28 万 Star，图形版（Mac/Windows $15.20）与 MiaoYan 移动端收费，同时接受 GitHub Sponsors。','https://x.com/HiTw93/status/2110371329354698962'),
 ('追着 AI 找新需求','给 Mole 加 “AI 清理与维护”：清理 Claude Code、Codex 的缓存、旧会话与 worktree，并提供 agent 可调用的 skill；11/1 又指出 AI 让写代码变快、但 CI 校验成了瓶颈，把 Mole、Kaku、Pake 的 GitHub Actions 全部优化，并把方法写成可直接丢给 Agent 的提示词分享（半天 370+ 收藏），11/2 又发英文版面向海外开发者。','https://x.com/HiTw93/status/2116797957454401746'),
-('干货长文是最好的获客','多端技术选型三连载、Grok Bot 提示词、Android 去广告教程，以及 10/28 把自己的 AI Coding 经验整理成可复用的最佳实践规则（一天内 700+ 收藏）；次日又发英文版《20 条 AI 编程规则》，一天收获 900+ 收藏、4 万浏览，同一份干货中英双发，触达海外读者。11/3 又回答计算机专业学生的困惑：主张借助 AI 协作放大自己最感兴趣的方向，愿意为好的 AI Token 投资，把时间留给真正在意的项目。收藏量动辄数百上千，远超产品宣传帖。','https://x.com/HiTw93/status/2115805352520282623'),
+('干货长文是最好的获客','多端技术选型三连载、Grok Bot 提示词、Android 去广告教程，以及 10/28 把自己的 AI Coding 经验整理成可复用的最佳实践规则（一天内 700+ 收藏）；次日又发英文版《20 条 AI 编程规则》，一天收获 900+ 收藏、4 万浏览，同一份干货中英双发，触达海外读者。11/3 回答计算机专业学生的困惑（主张借助 AI 协作放大兴趣方向、愿为好 Token 投资），11/5 再发英文版面向海外读者；11/6 又写「如何用 AI 做出不那么 AI Slop 的产品设计」：优先级是能解决问题 > 易用 > 好看，并给出 11 条可丢给 Agent 的 Review 清单（文案本地化、少弹窗、暖灰单强调色、设计规范克制等），半天 280+ 收藏。收藏量动辄数百上千，远超产品宣传帖。','https://x.com/HiTw93/status/2118624034334326902'),
 ('守住“活人感”与长期主义','不接商单以免伤害未来用户、警惕 AI 式回复、持续 6 年的潮流周刊——真实的个人品牌在 AI 时代更值钱。','https://x.com/HiTw93/status/2114230677604557136')]
 insH=''.join(f'<div class="ins"><b>{i+1:02d}</b><h4>{a}</h4><p>{b}</p><a href="{c}" target="_blank" rel="noopener">相关推文 →</a></div>' for i,(a,b,c) in enumerate(INS))
 now=datetime.datetime.now(BJ)
