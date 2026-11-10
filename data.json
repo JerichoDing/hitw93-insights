@@ -2,45 +2,78 @@
  "profile": {
   "username": "HiTw93",
   "name": "Tw93",
-  "followers": 165650,
+  "followers": 165749,
   "following": 283,
-  "tweets": 11962,
+  "tweets": 11986,
   "listed": 1388,
   "description": "Pake · MiaoYan · Kaku · Waza · Kami"
  },
  "posts": [
   {
+   "id": "2120050293132156972",
+   "created_at": "2026-11-10T07:05:53.000Z",
+   "text": "刚刚 Agent 提醒我 Mole 的 Windows 版本马上就发布一个月了，让我去检查一下早鸟价的时间只有 2 天了，时间过起来真快，想给小伙伴聊聊这一个月上线，Windows 版本都做了哪些有意思的事情让它一个月卖到了几十个国家～\n\n由于 Windows 版本属于功能完善的过程，这一个月累计又发布了 15 个正式版本，从 0.10.0 到 0.21.2，打了 20 个 tag，累计提交代码 1084 次。代码上 C# 和 XAML 新增 6.2 万行，居然也删掉 1.2 万行代码，当前功能代码累计 9.6 万行。\n\n为了保障产品的稳定性，测试类从 2032 个增加到 3302 个，多了 1270 个，测试代码从 4.1 万行涨到 6.7 万行，功能代码只比测试代码多 30% 了，很神奇，但在 AI 时代我认为也是正常的。\n\nWindows 上面的各种软件测试也在继续，当前测试到了 482 款了，后面仍会继续下去，也欢迎小伙伴这里给我反馈一些需要测试的软件，让整体变得更加完善。\n\n新增的功能上面不少是用户给我提的，非常感谢天使用户 @sujingshen @lihir55 @ldl123292 等专业的Windows 用户，给了我非常多的建议，比如当前分析页面终于支持多选逻辑了，你可以选中一批要删除的内容好比先加到购物车，等全部选完后一起删除。\n\n软件卸载和更新的体验也大福增强，当前可以多路并行同时更新多个软件，软件卸载甚至增加了保留 App 只清理数据的功能，整体卸载扫描速度相比之前快了 5 倍。当然这里被诟病的 Windows 的 UAC 弹框也做了一些不打扰大家的工作，可以安心静心清理维护你的电脑。\n\n状态页面能力也和 Mac 完全对齐了，支持蓝牙设备耳机键盘电量的展示。菜单栏小动物大伙非常喜欢，这次新增加了可以翼龙阿飞、阿獭、阿豚、阿龟，更加有趣。\n\n在 Windows 市场售卖软件其实会远比 Mac 市场要难很多，为了做好 Windows上的效果体验，我对比了试用了市面上数十个同类产品在功能清理、卸载能力的差异，尽可能把欠缺的补齐到最好，当然还有很多不足，小伙伴们可以在使用过程中有任何建议问题都可以找我～\n\nhttps://t.co/kv3NI0rrye",
+   "url": "https://x.com/HiTw93/status/2120050293132156972",
+   "likes": 31,
+   "bookmarks": 7,
+   "reposts": 1,
+   "replies": 8,
+   "impressions": 6999
+  },
+  {
+   "id": "2119957512476922215",
+   "created_at": "2026-11-10T00:57:12.000Z",
+   "text": "太长不读\n\n在代码没啥壁垒的年代，我们需要多做一点不可扩展的事情来让自己的产品形成一些自己的特色。\n\n好比大模型把所有产品默认加到 60，也即之前我们认为的及格等于现在的 0 分。 https://t.co/Ft53n2iVEO",
+   "url": "https://x.com/HiTw93/status/2119957512476922215",
+   "likes": 45,
+   "bookmarks": 37,
+   "reposts": 1,
+   "replies": 19,
+   "impressions": 10055
+  },
+  {
+   "id": "2119799246887219479",
+   "created_at": "2026-11-09T14:28:19.000Z",
+   "text": "Here's how I keep X clean without missing the good stuff from people I follow. I gave Grok this prompt, and you can try it too:\n\nEvery evening at 8pm, put together today's highlights from the accounts I follow, plus others worth reading. Read posts only through the official X API, and skip anything covered the day before.\n\nFormat:\n- Open with \"Today's main threads\" in 3 short sentences\n- One section per person, with their name and @, and a divider between sections\n- 2 to 4 points per section, each as a bold topic, then the content and a link to the original post. Use two to four sentences to cover what they said, the key details and the background\n- End each section with one sentence of your own take\n- Put small tools in a final \"Tools\" section\n- About 10 to 15 sections, no em dashes, no AI tone, keep it simple and clear\n\nNow I get this digest every day, so I scroll X less and stay a bit more focused.",
+   "url": "https://x.com/HiTw93/status/2119799246887219479",
+   "likes": 189,
+   "bookmarks": 257,
+   "reposts": 13,
+   "replies": 20,
+   "impressions": 18139
+  },
+  {
    "id": "2119689899062534393",
    "created_at": "2026-11-09T07:13:48.000Z",
    "text": "在快 AI 时代，我是怎么把 Mole 做成一款慢产品的？ https://t.co/BzhswHsLTW",
    "url": "https://x.com/HiTw93/status/2119689899062534393",
-   "likes": 104,
-   "bookmarks": 46,
-   "reposts": 5,
-   "replies": 17,
-   "impressions": 11629
+   "likes": 182,
+   "bookmarks": 133,
+   "reposts": 16,
+   "replies": 31,
+   "impressions": 33866
   },
   {
    "id": "2119619974390313215",
    "created_at": "2026-11-09T02:35:57.000Z",
    "text": "MUJI 这个双层纱睡衣家居服好舒服，推荐买来在家里穿，哈哈但不推荐穿出去，适合开着暖气的冬天和不开暖气的春秋。 https://t.co/1JCPCBuhyy",
    "url": "https://x.com/HiTw93/status/2119619974390313215",
-   "likes": 116,
-   "bookmarks": 68,
+   "likes": 158,
+   "bookmarks": 96,
    "reposts": 5,
-   "replies": 29,
-   "impressions": 18091
+   "replies": 39,
+   "impressions": 25407
   },
   {
    "id": "2119430741024972807",
    "created_at": "2026-11-08T14:04:00.000Z",
    "text": "Pake V3.18 is out. It's an open-source tool that turns any webpage into a lightweight desktop app with one command, now at 62.9K stars.\n\nWhat's new:\n1. The docs have their own site now, with a step-by-step getting started tutorial and pages for shortcuts, scripts and AI agents.",
    "url": "https://x.com/HiTw93/status/2119430741024972807",
-   "likes": 77,
-   "bookmarks": 73,
-   "reposts": 11,
-   "replies": 9,
-   "impressions": 9923
+   "likes": 83,
+   "bookmarks": 83,
+   "reposts": 12,
+   "replies": 10,
+   "impressions": 11194
   },
   {
    "id": "2119295169824805175",
@@ -48,32 +81,32 @@
    "text": "🤣 笑死居然把这款漱口水在脆上面带火了\n已经变成生活博主了吗？ https://t.co/DxvGhZVk3u",
    "url": "https://x.com/HiTw93/status/2119295169824805175",
    "likes": 69,
-   "bookmarks": 29,
+   "bookmarks": 31,
    "reposts": 0,
-   "replies": 38,
-   "impressions": 24839
+   "replies": 39,
+   "impressions": 26464
   },
   {
    "id": "2119262838795694208",
    "created_at": "2026-11-08T02:56:49.000Z",
    "text": "最近上映的这个埃及的电影《生日快乐》很好看，推荐有空的小伙伴一看。 https://t.co/JMYJZBJSpp",
    "url": "https://x.com/HiTw93/status/2119262838795694208",
-   "likes": 38,
-   "bookmarks": 14,
+   "likes": 39,
+   "bookmarks": 15,
    "reposts": 1,
    "replies": 4,
-   "impressions": 7370
+   "impressions": 7775
   },
   {
    "id": "2119060282752504023",
    "created_at": "2026-11-07T13:31:56.000Z",
    "text": "People often ask me how to use AI to design products that look good and don't feel like AI slop. It's not an easy question, since I'm not a professional designer, so I can only share it from a product engineer's point of view: how to make products that aren't ugly and are easy to use.\n\nFirst, one premise. A good-looking design can't save a product that doesn't solve a problem. Design is the icing on the cake, not what decides whether a product succeeds. If I had to rank priorities, it would be: solves a problem > easy to use > looks good. It's like food: first don't go hungry, then get enough to eat, then eat well.\n\nI won't say much about solving the problem, since that depends on the product itself. It solves a concrete need: someone needs it, there's a real scenario for it, and your product happens to offer a way for a person or an agent to get it done. Some problems are just bigger than others.\n\nSo how do you make a product that's easy to use and not ugly? Ha, you can walk through the list below yourself, or hand the whole thing to your agent and have it review your product's codebase.\n\n1. Pretend you're an ordinary user who knows nothing about tech. Can they get through the main flow and come out with what they need? Find every place where they get stuck, where something isn't explained, or where one step doesn't lead naturally into the next, and fix all of it, so people can use the product without a manual. Only where that's truly impossible, add a short hint.\n\n2. Every piece of copy should read the way native speakers of that language actually talk. Choose your words carefully instead of translating flatly. Look at how Apple, Windows and well-known websites word the same thing, and aim for copy that feels simple, clear and natural to a local.\n\n3. Where the product itself already makes something clear, don't add text to explain it. Don't over-explain. Check every line of helper text for whether it says what it means without padding, and if the interaction or the visuals already say it, don't say it again in words.\n\n4. When you show a number, make sure people know what it refers to, and make it easy to read for what it means. Money, metrics, distance and other units each have their own best practices. Accuracy matters a lot, so don't skip validating the data to save effort.\n\n5. Don't keep asking users to confirm something they already chose. Ask a second time only when an action can't be undone, so the screen isn't full of confirmation dialogs. Don't splash big red areas over dangerous actions either. Think about how pleasant the product feels to use. Users aren't stupid, so don't worry too much about them making mistakes.\n\n6. Visually, keep one accent color per page. Try to avoid orange, terracotta, and the bright corporate blue of old admin dashboards. Make every gray a warm gray, never a cold blue-gray. If you can't find a good color, look through traditional Chinese colors.\n\n7. Use as few font sizes as possible, at most four on a page. Think about the reading rhythm of the whole page, its clarity and text contrast, and make sure it meets accessibility standards. Line height, letter spacing and paragraph spacing all need repeated tuning, while the whole system stays consistent.\n\n8. Use italics, monospace and all caps sparingly, and only with a clear reason. No italics for helper text, monospace only for code, paths and metrics, and no all-caps text in buttons or labels. Go easy on joining things with a middle dot (·). Use one verb for one action across the whole product, and avoid verbs that push people to act, like the marketing-style \"Buy now\".\n\n9. Keep buttons, spacing, corner radius, dividers, dialogs, animation and shadows consistent and restrained, so they don't get in the user's way. Nested rounded corners should be concentric: the inner radius equals the outer radius minus the padding between them, and it looks better. Pages are flat by default: no stacked shadows, no glow, no frosted glass. Shadows are only for dialogs that really float above the page, and no cards inside cards.\n\n10. In a multilingual product, lay things out for the longest translation first, and put meaning before looks rather than changing what the text says to make it fit. You can rewrite the copy, but don't change the font size or truncate it. Check that everything displays well at different sizes on the devices your users actually use, test them all, and fix everything that looks off.\n\n11. For a design you keep tweaking without getting it right, or one that still looks off after many rounds, ask your agent for the three options it thinks are best and pick one, then tell it to keep refining until you're happy. I like having AI put before-and-after images into one PDF, which makes comparing them much easier for me.\n\nThat's about it. One more thing matters a lot, though: your own patience and willingness to keep iterating. I'm a bit of a perfectionist, and I often go a dozen rounds with AI over a single line of copy, a color or a design until I'm happy with it. AI is smart, but you often need to ask more of it, and put in more time and patience to get a result you like. Or put another way, spend more time and look at more good design, and you can build products that are easy to use and not ugly.",
    "url": "https://x.com/HiTw93/status/2119060282752504023",
-   "likes": 160,
-   "bookmarks": 210,
+   "likes": 162,
+   "bookmarks": 211,
    "reposts": 12,
-   "replies": 9,
-   "impressions": 16627
+   "replies": 10,
+   "impressions": 17040
   },
   {
    "id": "2118934129987432592",
@@ -83,52 +116,52 @@
    "likes": 141,
    "bookmarks": 46,
    "reposts": 2,
-   "replies": 32,
-   "impressions": 17566
+   "replies": 33,
+   "impressions": 17849
   },
   {
    "id": "2118868159780499529",
    "created_at": "2026-11-07T00:48:30.000Z",
    "text": "最快乐的事情\n当然是拆李志的 CD\n然后立马播放！ https://t.co/0Y1OLHxYLC",
    "url": "https://x.com/HiTw93/status/2118868159780499529",
-   "likes": 201,
+   "likes": 202,
    "bookmarks": 17,
    "reposts": 1,
    "replies": 41,
-   "impressions": 32628
+   "impressions": 32975
   },
   {
    "id": "2118624034334326902",
    "created_at": "2026-11-06T08:38:26.000Z",
    "text": "经常有小伙伴问我，怎么用 AI 做出好看的产品设计，不那么 AI Slop，其实不是很好答，因为自己也不是专业的，只能站在产品工程师视角来给大伙聊一聊，怎么做出不丑且易用的产品。\n\n首先要知道一个前提，很多时候好看的设计也救不了不解决问题的产品，设计在这里只是锦上添花的作用，而非决定产品的成败，假如要我选择产品优先级，应该是能解决问题 > 易于使用 > 好看美观，好比先解决不饿着、再解决温饱、最好解决吃好一样。\n\n能解决问题这里不多说，更多取决于产品本身，它是去解决一个具体的需求，有人需要，有场景需要，刚好你这个产品可以提供一个解决方案让人或者 Agent 使用完成目标就好了，只不过解决问题有大有小。\n\n那么如何做易用且不丑的产品呢？哈哈，可以照着走一遍，也可以把下面的这一大段给你的 Agent 让他去帮你 Review 一下你的产品代码仓库。\n\n1. 把自己当做一个普通不懂技术的小白，他拿到我们产品，能否把主链路走完产出他所需要的东西，哪些地方有卡点，哪些地方没有讲明白，哪些地方的衔接不通顺，全部去修复，让用户不用说明书也可以完成产品的使用，假如实在不能，可以适当补充提示说明。\n\n2. 所有文案需要符合对应语言当地人的使用习惯，需要仔细斟酌词藻，不要干巴巴的翻译，可以从 Apple、Windows 系统以及知名网站去找同类词的最好翻译和解释，文案做到尽可能让本地人感觉非常简单、易懂、清晰。\n\n3. 产品上能用产品本身表达清楚的地方就不要再加文案说明，不要啰嗦的解释一个东西，仔细思考每一个说明文案是否达意且不啰嗦，交互视觉可以说清楚的地方就不要用文案再表达一遍。\n\n4. 在数字的表达上需要让用户明白这个数据指的内容，以及考虑到数据表达意思后的易读，比如钱、指标、距离各种单位需要考虑到本身的最佳实践，数据的准确性非常重要，不要为了偷懒少了数据的校验。\n\n5. 对于用户确定的操作不需要反复找用户确定，只有在会产生不可逆影响的时候二次找用户确定是否需要执行，防止满屏都是各种弹框确定，对于危险的操作不要出现大片的红，需要考虑用户操作一个产品的愉悦度，用户不是傻子不要过度担心会犯错。\n\n6. 视觉上，一个页面只留一个强调色，尽量不要使用橙色、陶土色和后台常见的那种老企业亮蓝色，灰色全部用偏暖的灰，不使用冷冰冰的蓝灰，找不到合适的颜色可以去中国传统颜色里面去找到合适的。\n\n7. 字号类型尽可能少一点，一个页面最多控制4种不同的字号，需要考虑到页面整体的阅读节奏感，清晰感以及文字的对比度，确保符合无障碍，包括考虑到行间间、字间距、段落间距需要反复调整，同时保持整体的规范一致。\n\n8. 少用斜体、等宽字体、全大写，要用的场景必须要有详细的理由说明，说明文案不要使用斜体，等宽字体只用于代码、路径、指标，按钮和标签里面的字不要大写，少用中间点 · 来连接内容。同一个动作在整个产品里面只用一个动词，此外动词的考虑尽量不要催促用户去执行，比如少用立即购买这种营销词。\n\n9. 页面的按钮、间距、圆角、分割线、弹窗、动画、阴影这类设计规范保持一致，同时保持克制，不打扰用户，嵌套的圆角要同心，里面的圆角等于外面的圆角减去间距会更好看。页面默认是平的，不叠阴影、不发光、不加毛玻璃，阴影只给真正浮起来的弹窗，不要卡片套卡片。\n\n10. 在多语言的环境下，优先考虑最长文案的排布，优先考虑达意而非为了好看而改变原意，可以改文案，但不要变字号和截断。需要特别考虑在不同尺寸下的展示效果是否都良好，考虑到用户常用的设备，全部去测试，遇到不好的地方全部修复。\n\n11. 对于反复调整不好的设计，或者做了好多轮都感觉不好看的设计，让 Agent 帮你出3个他认为最好的方案来让你挑选，然后你选择一个更好的，告诉他去优化，直到改到你满意，我比较喜欢让 AI 生成对比前后的图片放到一个pdf里面，这样我的阅读对比体验会更好。\n\n大概就是上面这些，不过还有一个非常重要的就是你自己的耐心和反复调整，我比较强迫症，经常会因为了一个文案、一个颜色、一个设计和 AI 讨论十几轮，直到自己满意了才舒服，虽然 AI 很聪明，但是很多时候你对他的要求要更多，以及你需要付出更多的时间和耐心，才可以做出满意的效果，或者说你多花时间，多去看好的设计，其实就可以做出易用不丑的产品了。",
    "url": "https://x.com/HiTw93/status/2118624034334326902",
-   "likes": 470,
-   "bookmarks": 569,
-   "reposts": 56,
+   "likes": 473,
+   "bookmarks": 573,
+   "reposts": 57,
    "replies": 105,
-   "impressions": 32234
+   "impressions": 32900
   },
   {
    "id": "2118516547547472019",
    "created_at": "2026-11-06T01:31:19.000Z",
    "text": "疯狂推荐用这个来洗你的茶杯，咖啡杯，或者任何洗不干净的杯子碗\n\n一点点下去，有魔法一样立马光亮如新！ https://t.co/AIIoOED3Ih",
    "url": "https://x.com/HiTw93/status/2118516547547472019",
-   "likes": 224,
-   "bookmarks": 168,
+   "likes": 226,
+   "bookmarks": 170,
    "reposts": 15,
    "replies": 94,
-   "impressions": 44848
+   "impressions": 45121
   },
   {
    "id": "2118333020734452013",
    "created_at": "2026-11-05T13:22:03.000Z",
    "text": "Yesterday a reader sent me a message. They study computer science, and they feel AI can now do all of their homework and papers for them. They asked whether this field still has a future, and what advice I'd give for the years ahead.\n\nIt made me think: if I could go back to my final year of college, what would I do to make the road ahead a little smoother, with fewer pitfalls? This is just my own limited view, and I'd love to hear yours.\n\n1. I'd still choose computer science, then pick the sub-field I find most interesting, and use AI to amplify my work there as much as I can, so that right after graduating it already feels like leading a team.\n\n2. Move to a city with a strong tech scene and plenty of tech companies, like San Francisco, New York, London or Seattle. If your degree and skills are strong enough, find a good AI company in the few blocks of San Francisco between SoMa and Mission Bay. Being that close to the AI labs will sharpen your sense of where large models are heading far more than anywhere else.\n\n3. At work, get things done fast, and be willing to pay for good AI tokens so you can do them well and quickly. Push the projects you care about to 150%, and finish the ones you don't to a solid 80 in the least time possible. Don't waste time, so there's room left to learn more. Embrace new things eagerly, and be willing to spend money on the best AI.\n\n4. Put half of your salary into VOO and QQQ as a regular monthly investment. You can also pick one or two tech companies you strongly believe in, like NVIDIA, Apple, or Anthropic once it goes public. Don't chase hot stocks, and don't speculate.\n\n5. Find your partner earlier, rather than putting it off until you've been working for a few years. Watch how they handle problems and how patient they are. Look for the one who cares how you feel, stays optimistic, and stands on your side whatever happens.\n\n6. Don't lend money to anyone, including relatives, classmates and old friends. Lending money will only weigh on you while you're young. Don't show off how much you earn, and don't spend carelessly. First grow your first pot of money to the point where you'd feel comfortable living for two years without working.\n\n7. Keep learning, keep talking with people, and keep making fun things for the community, your circles and X. Build your GitHub and X accounts without chasing profit, so they grow into your personal brand. Always serve people assuming your users are good people.\n\n8. Outside your main work, grow your own interests. Take some classes, whether photography, a musical instrument, sports, or even running and cycling. Life outside work won't get dull, and it gets you out and about more.\n\n9. Health always comes first. Sleep matters, so never stay up late. Don't sit for too long, drink plenty of water, and walk more. Don't push too hard at work either. The first burst of energy fades, the second runs low, and the third is gone, so stretch out how long you can keep working.\n\n10. In the end, find your own path to not having to clock in, as early as you can. You can still work, but you don't have to show up for a job. Earn money through your interests, expertise, strengths and what you keep learning, keep improving along the way, and enjoy making that money.",
    "url": "https://x.com/HiTw93/status/2118333020734452013",
-   "likes": 88,
-   "bookmarks": 41,
+   "likes": 93,
+   "bookmarks": 43,
    "reposts": 7,
    "replies": 10,
-   "impressions": 11048
+   "impressions": 11254
   },
   {
    "id": "2118308414652870695",
@@ -139,29 +172,29 @@
    "bookmarks": 4,
    "reposts": 0,
    "replies": 2,
-   "impressions": 3840
+   "impressions": 4008
   },
   {
    "id": "2118260222338924987",
    "created_at": "2026-11-05T08:32:47.000Z",
    "text": "🧑‍🚒 假如你的朋友需要发小红书，一定要把 Kami 推荐给他\n最近 Kami 终于把我用了半年多的社交图功能给加上了，好内容值得好排版\n只要告诉你的 Agent 说用 Kami 帮你把内容变成小红书卡片形式\n那么就可以得到这种漂亮的效果了，甚至我还精挑细选了 8 种不同的底色\nhttps://t.co/T7xhpS70kW https://t.co/WR1I6MTE2L",
    "url": "https://x.com/HiTw93/status/2118260222338924987",
-   "likes": 261,
+   "likes": 263,
    "bookmarks": 300,
    "reposts": 16,
    "replies": 37,
-   "impressions": 26370
+   "impressions": 26656
   },
   {
    "id": "2118138921628668294",
    "created_at": "2026-11-05T00:30:46.000Z",
    "text": "疯狂推荐这个漱口水\n这些年我大概买了快 30 瓶了\n很好用，不辣，每次吃完饭用很清新 https://t.co/nKFyKZbDTa",
    "url": "https://x.com/HiTw93/status/2118138921628668294",
-   "likes": 297,
-   "bookmarks": 229,
+   "likes": 299,
+   "bookmarks": 231,
    "reposts": 9,
    "replies": 63,
-   "impressions": 28580
+   "impressions": 28790
   },
   {
    "id": "2117978672095514999",
@@ -171,30 +204,30 @@
    "likes": 99,
    "bookmarks": 39,
    "reposts": 5,
-   "replies": 17,
-   "impressions": 15941
+   "replies": 18,
+   "impressions": 16090
   },
   {
    "id": "2117903730494591205",
    "created_at": "2026-11-04T08:56:12.000Z",
    "text": "都有 AI 了，还手写文档的小伙伴应该不多了，有一种邪不压正里面这年头“正经人谁写日记啊” 这种味道，后面可预计真正不借助 AI 写文章的场景会越来越少了。\n\n其实我在 7 年前就开始想一个好用的 Markdown 笔记应用应该是怎么样的？我认为首先是完全 md https://t.co/JlXhShI0LV",
    "url": "https://x.com/HiTw93/status/2117903730494591205",
-   "likes": 174,
+   "likes": 176,
    "bookmarks": 118,
    "reposts": 16,
    "replies": 35,
-   "impressions": 30414
+   "impressions": 31212
   },
   {
    "id": "2117521154747625813",
    "created_at": "2026-11-03T07:35:59.000Z",
    "text": "昨天有一个小伙伴私信问我，自己计算机专业，感觉现在 AI 可以完全代替他们的作业和论文，问我这个行业还有没有前景，以及对未来的一些建议。\n\n我在想假如我回到大四的那一年，我会怎么做让自己未来之路少踩坑，走得顺一点，当然自己见识浅薄有限，欢迎交流。\n\n1. 肯定还是会选择计算机方向，然后选择自己最感兴趣的子方向，借助 AI 协作极大放大这一块的效果，好比一毕业就有一种带团队干活的感觉。\n\n2. 选择北上深杭这样技术氛围好，科技行业多的城市，假如学历和技术足够厉害，就去北京清华以南北大以东学院路以西大钟寺以北这个区域内找一个合适的AI 公司工作，这样对于 AI 大模型的敏锐度会远高于其他的地方。\n\n3. 工作时候，快速完成工作，愿意投资好的 AI  Token 帮助自己快速做好事情，对于自己感兴趣的项目做到 150%的效果，对于不感兴趣的项目做到80分合格但是效率最高，不浪费时间，这样才有时间去学习更多的东西，非常积极的拥抱新事物，愿意花钱投资最好 AI 的使用。\n\n4. 把工资的一半拿来投资 VOO、QQQ，当做定投，当然也可以选择自己极度看好的一两个科技公司，比如英伟达、苹果以及未来的要上市的 Anthropic，不碰任何 A 股、港股，不投机。\n\n5. 更早的时候找到自己的另一半，不要拖到工作几年以后，多看另一半处理问题时候的能力和耐心，在意你的感受，乐观，出什么事情都站到你这边的那个。\n\n6. 不要借钱任何人包括亲戚、同学、老乡，借钱会让年轻的你心情不好，不要炫耀自己赚了多少钱，也不乱花钱，先让自己的第一桶金能够到你感觉即使2年不工作也可以过得很舒服的地步。\n\n7. 保持持续学习，持续交流，持续创造一些好玩的东西给到社区、圈子、推特，不逐利的去做自己的 GitHub、X 等账号，形成自己的个人品牌，永远抱着用户是好人的心态去提供服务。\n\n8. 专业工作之外，培养自己的兴趣点，可以去上一些课，不管是摄影、乐器、运动甚至是跑步骑行这种，这样会让你工作之外，不会太无聊，也会让你可以多出去走走。\n\n9. 身体健康永远放到第一位，睡眠很重要，一定不要熬夜，不要久坐，多喝水，多走走挺好的，以及工作不要干太猛，别一鼓作气再而衰，把自己可以工作的战线拉得更长一点。\n\n10. 最终尽早找到自己让自己不上班的自由之路，可以工作但是可以不上班，通过自己的兴趣、专业、特长、学习去赚钱，并持续的在这个过程提高自己，很高兴的把钱赚了。",
    "url": "https://x.com/HiTw93/status/2117521154747625813",
-   "likes": 1415,
-   "bookmarks": 899,
+   "likes": 1413,
+   "bookmarks": 903,
    "reposts": 141,
    "replies": 153,
-   "impressions": 105000
+   "impressions": 105438
   },
   {
    "id": "2117254652404044064",
@@ -205,7 +238,7 @@
    "bookmarks": 250,
    "reposts": 15,
    "replies": 37,
-   "impressions": 22130
+   "impressions": 22245
   },
   {
    "id": "2117177683784454624",
@@ -213,10 +246,10 @@
    "text": "强迫症必备！\n这款屏幕清理湿纸巾擦完电脑屏幕和刚拆封时候一样的感觉！ https://t.co/wvJjR3M4cn",
    "url": "https://x.com/HiTw93/status/2117177683784454624",
    "likes": 285,
-   "bookmarks": 188,
+   "bookmarks": 187,
    "reposts": 9,
    "replies": 62,
-   "impressions": 59080
+   "impressions": 59215
   },
   {
    "id": "2117053542297165895",
@@ -227,7 +260,7 @@
    "bookmarks": 13,
    "reposts": 0,
    "replies": 17,
-   "impressions": 13125
+   "impressions": 13220
   },
   {
    "id": "2116890236320092498",
@@ -238,7 +271,7 @@
    "bookmarks": 270,
    "reposts": 19,
    "replies": 40,
-   "impressions": 58672
+   "impressions": 58868
   },
   {
    "id": "2116817496175247392",
@@ -249,18 +282,18 @@
    "bookmarks": 2,
    "reposts": 0,
    "replies": 6,
-   "impressions": 7182
+   "impressions": 7258
   },
   {
    "id": "2116797957454401746",
    "created_at": "2026-11-01T07:42:15.000Z",
    "text": "有了 AI 以后写代码速度快了非常多，但是校验的速度其实还是不快的，特别是在 GitHub 上跑 Actions CI 的速度，下午花了一些时间对 Mole、Kaku、Pake 的 CI 全部彻底优化了一下，效果很不错，分享给大伙。\n\n你可以这样直接 Copy 下面给到你的 Agent，我们来看看可以帮你节约多少时间。",
    "url": "https://x.com/HiTw93/status/2116797957454401746",
-   "likes": 798,
+   "likes": 799,
    "bookmarks": 1096,
-   "reposts": 56,
+   "reposts": 57,
    "replies": 85,
-   "impressions": 72224
+   "impressions": 72490
   },
   {
    "id": "2116720090771230995",
@@ -271,7 +304,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 10,
-   "impressions": 10556
+   "impressions": 10620
   },
   {
    "id": "2116526856547536902",
@@ -279,10 +312,10 @@
    "text": "Sharing the 6 Chrome extensions I use every day.\n\n1. Maple Bookmarks, made by me. I keep Chrome's bookmark bar hidden and open my bookmarks in a popup with a shortcut.\n2. Maple NewTab, also made by me. A minimal new tab page that replaces Chrome's default and shows a beautiful https://t.co/5Fmr7a9YsU",
    "url": "https://x.com/HiTw93/status/2116526856547536902",
    "likes": 471,
-   "bookmarks": 695,
+   "bookmarks": 691,
    "reposts": 35,
    "replies": 22,
-   "impressions": 41398
+   "impressions": 41623
   },
   {
    "id": "2116318332387565839",
@@ -293,7 +326,7 @@
    "bookmarks": 1,
    "reposts": 0,
    "replies": 4,
-   "impressions": 9315
+   "impressions": 9430
   },
   {
    "id": "2116163296437104926",
@@ -304,7 +337,7 @@
    "bookmarks": 131,
    "reposts": 4,
    "replies": 8,
-   "impressions": 15695
+   "impressions": 15819
   },
   {
    "id": "2116075564520145260",
@@ -315,7 +348,7 @@
    "bookmarks": 7,
    "reposts": 0,
    "replies": 0,
-   "impressions": 2978
+   "impressions": 3138
   },
   {
    "id": "2116074462059896969",
@@ -326,7 +359,7 @@
    "bookmarks": 35,
    "reposts": 1,
    "replies": 25,
-   "impressions": 16954
+   "impressions": 17085
   },
   {
    "id": "2115805352520282623",
@@ -334,10 +367,10 @@
    "text": "I spent an afternoon turning my AI coding habits into 20 rules that you and your agent can learn from together.\n\nBriefing\n1. Stop dictating the implementation. Describe the outcome you want. Models are good enough now, so aim high and don't worry that it can't be done.\n2. Give",
    "url": "https://x.com/HiTw93/status/2115805352520282623",
    "likes": 736,
-   "bookmarks": 1026,
+   "bookmarks": 1025,
    "reposts": 86,
    "replies": 46,
-   "impressions": 47091
+   "impressions": 47339
   },
   {
    "id": "2115696282216067577",
@@ -348,7 +381,7 @@
    "bookmarks": 26,
    "reposts": 1,
    "replies": 23,
-   "impressions": 15769
+   "impressions": 15879
   },
   {
    "id": "2115590674494173573",
@@ -359,7 +392,7 @@
    "bookmarks": 9,
    "reposts": 1,
    "replies": 14,
-   "impressions": 15757
+   "impressions": 15846
   },
   {
    "id": "2115448387701182969",
@@ -370,7 +403,7 @@
    "bookmarks": 11,
    "reposts": 2,
    "replies": 7,
-   "impressions": 9635
+   "impressions": 9728
   },
   {
    "id": "2115372861397565831",
@@ -381,18 +414,18 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 7,
-   "impressions": 6856
+   "impressions": 7329
   },
   {
    "id": "2115366100221501540",
    "created_at": "2026-10-28T08:52:34.000Z",
    "text": "假如把我的 AI Coding 经验沉淀成一些最佳实践规则，可以给到大伙复用，会是怎么样的，于是乎，今天一下午我就在琢磨这个事情，手写反复调整后给到大伙，可以让你和你的 Agent 一起去学习。\n\n需求\n1. https://t.co/WA5Fi2XZ6B",
    "url": "https://x.com/HiTw93/status/2115366100221501540",
-   "likes": 1506,
-   "bookmarks": 1935,
-   "reposts": 185,
+   "likes": 1504,
+   "bookmarks": 1936,
+   "reposts": 186,
    "replies": 118,
-   "impressions": 81138
+   "impressions": 81765
   },
   {
    "id": "2115075830955348064",
@@ -403,7 +436,7 @@
    "bookmarks": 64,
    "reposts": 5,
    "replies": 15,
-   "impressions": 30100
+   "impressions": 30189
   },
   {
    "id": "2115003746027757811",
@@ -411,10 +444,10 @@
    "text": "笑死了，居然经常小伙伴问我如何把自己改造得不这么程序员，以及刚好双十一怎么买一些衣服来搭配一下，哈哈哈，真没想到系列，刚好这里理一理分享给大伙，说不定用得上。\n\n首先我认为不是先去买衣服，而是搜索一下周边比较不错的理发店，可以是之前自己理发价格的 double 的那种，然后约一个 Tony https://t.co/FrhBI02oXp",
    "url": "https://x.com/HiTw93/status/2115003746027757811",
    "likes": 311,
-   "bookmarks": 189,
+   "bookmarks": 190,
    "reposts": 14,
    "replies": 68,
-   "impressions": 43344
+   "impressions": 43563
   },
   {
    "id": "2114750773133562365",
@@ -425,7 +458,7 @@
    "bookmarks": 56,
    "reposts": 5,
    "replies": 69,
-   "impressions": 114517
+   "impressions": 114741
   },
   {
    "id": "2114702036264767748",
@@ -433,10 +466,10 @@
    "text": "https://t.co/V9tA0xTPsb",
    "url": "https://x.com/HiTw93/status/2114702036264767748",
    "likes": 276,
-   "bookmarks": 287,
+   "bookmarks": 286,
    "reposts": 25,
    "replies": 22,
-   "impressions": 27254
+   "impressions": 27402
   },
   {
    "id": "2114652266590593103",
@@ -447,7 +480,7 @@
    "bookmarks": 49,
    "reposts": 10,
    "replies": 24,
-   "impressions": 15140
+   "impressions": 15208
   },
   {
    "id": "2114354011843481793",
@@ -458,7 +491,7 @@
    "bookmarks": 77,
    "reposts": 7,
    "replies": 21,
-   "impressions": 28379
+   "impressions": 28456
   },
   {
    "id": "2114298268880679212",
@@ -469,7 +502,7 @@
    "bookmarks": 9,
    "reposts": 1,
    "replies": 62,
-   "impressions": 21320
+   "impressions": 21403
   },
   {
    "id": "2114230677604557136",
@@ -480,18 +513,18 @@
    "bookmarks": 36,
    "reposts": 5,
    "replies": 49,
-   "impressions": 30695
+   "impressions": 30755
   },
   {
    "id": "2113975366469767426",
    "created_at": "2026-10-24T12:46:17.000Z",
    "text": "刚刚做了一个非常简单但有用的事情，几句话把我的 Android 小平板上的系统广告、无用通知、牛皮藓图标、以及没有用的预装应用全部干掉了，非常适合当你刚买了Android 手机、平板，或者是给你的家人来优化手机，现在我的 Android 小平板非常干净了。\n\n首先把 Android 机器使用自带数据线连接 https://t.co/UzA4ah0jaH",
    "url": "https://x.com/HiTw93/status/2113975366469767426",
-   "likes": 615,
-   "bookmarks": 779,
+   "likes": 614,
+   "bookmarks": 781,
    "reposts": 66,
    "replies": 78,
-   "impressions": 57064
+   "impressions": 57277
   },
   {
    "id": "2113863707814248773",
@@ -502,7 +535,7 @@
    "bookmarks": 1,
    "reposts": 2,
    "replies": 46,
-   "impressions": 26054
+   "impressions": 26108
   },
   {
    "id": "2113827291289809248",
@@ -513,7 +546,7 @@
    "bookmarks": 0,
    "reposts": 0,
    "replies": 34,
-   "impressions": 14316
+   "impressions": 14355
   },
   {
    "id": "2113611264417255679",
@@ -524,7 +557,7 @@
    "bookmarks": 4,
    "reposts": 0,
    "replies": 10,
-   "impressions": 6668
+   "impressions": 6704
   },
   {
    "id": "2113550677268160860",
@@ -535,7 +568,7 @@
    "bookmarks": 82,
    "reposts": 13,
    "replies": 24,
-   "impressions": 18855
+   "impressions": 18911
   },
   {
    "id": "2113421550527599062",
@@ -546,7 +579,7 @@
    "bookmarks": 19,
    "reposts": 0,
    "replies": 5,
-   "impressions": 7585
+   "impressions": 7624
   },
   {
    "id": "2113420869016105315",
@@ -557,7 +590,7 @@
    "bookmarks": 4,
    "reposts": 0,
    "replies": 0,
-   "impressions": 2718
+   "impressions": 2944
   },
   {
    "id": "2113420820815224904",
@@ -568,7 +601,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 1,
-   "impressions": 3312
+   "impressions": 3771
   },
   {
    "id": "2113276119860613209",
@@ -579,7 +612,7 @@
    "bookmarks": 93,
    "reposts": 8,
    "replies": 23,
-   "impressions": 17860
+   "impressions": 17940
   },
   {
    "id": "2113224237070889019",
@@ -590,7 +623,7 @@
    "bookmarks": 113,
    "reposts": 12,
    "replies": 31,
-   "impressions": 17190
+   "impressions": 17245
   },
   {
    "id": "2113162522597724258",
@@ -600,19 +633,19 @@
    "likes": 87,
    "bookmarks": 66,
    "reposts": 3,
-   "replies": 14,
-   "impressions": 17453
+   "replies": 15,
+   "impressions": 17684
   },
   {
    "id": "2112915889523941780",
    "created_at": "2026-10-21T14:36:18.000Z",
    "text": "书接上回，接着聊昨晚聊的多端技术选型，今天我们来聊第二篇，说说我是怎么在 Mac 上来开发原生 Windows 软件的，以及我是如何搭建编译、测试环境的，还有最近一个月做 Mole Windows 版踩过的一些有意思的坑。\n\n技术栈上，Mac 版本的 Mole 使用的也是原生的 Swift + https://t.co/mutM2NEp37",
    "url": "https://x.com/HiTw93/status/2112915889523941780",
-   "likes": 355,
-   "bookmarks": 266,
+   "likes": 356,
+   "bookmarks": 268,
    "reposts": 33,
    "replies": 49,
-   "impressions": 33985
+   "impressions": 34158
   },
   {
    "id": "2112747828598759925",
@@ -623,18 +656,18 @@
    "bookmarks": 0,
    "reposts": 0,
    "replies": 3,
-   "impressions": 8448
+   "impressions": 8482
   },
   {
    "id": "2112526198807183766",
    "created_at": "2026-10-20T12:47:49.000Z",
    "text": "发现不少小伙伴很好奇我是怎么用 Mac 来开发Windows软件的，以及Windows软件现在一般用什么技术栈来实现，刚好有空，来和大伙随便聊聊关于多客户端下技术选择的思考以及我的一些想法。\n\n以下是第一篇，给大伙介绍介绍各种桌面、移动端开发技术的选择以及对应选择的思考。 https://t.co/Jw1kL3FaKu",
    "url": "https://x.com/HiTw93/status/2112526198807183766",
-   "likes": 616,
-   "bookmarks": 486,
+   "likes": 615,
+   "bookmarks": 490,
    "reposts": 49,
    "replies": 67,
-   "impressions": 76043
+   "impressions": 76785
   },
   {
    "id": "2112383830351134901",
@@ -645,7 +678,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 1,
-   "impressions": 10050
+   "impressions": 10079
   },
   {
    "id": "2112336557072060910",
@@ -653,10 +686,10 @@
    "text": "昨晚聊到喝茶，推荐小伙伴试试这一款清香型铁观音，一点淡淡的兰花香，而且比较耐泡，好喝的！ https://t.co/ak0GgOtAjT",
    "url": "https://x.com/HiTw93/status/2112336557072060910",
    "likes": 143,
-   "bookmarks": 103,
+   "bookmarks": 102,
    "reposts": 8,
    "replies": 38,
-   "impressions": 30884
+   "impressions": 30938
   },
   {
    "id": "2112168257763598836",
@@ -664,21 +697,21 @@
    "text": "最近养成了一个非常好的习惯，想推荐给小伙伴们，我想把它叫做刷新或者重置。\n\n每次快到晚上，你从外面回来，第一件事其实就是去刷牙洗澡。把自己洗干净，吹干头发，换上干净的衣服，然后再去做自己的事情。\n\n比如说，你 7 点到家，洗完澡 7 https://t.co/npvH5KBCRP",
    "url": "https://x.com/HiTw93/status/2112168257763598836",
    "likes": 1108,
-   "bookmarks": 468,
+   "bookmarks": 466,
    "reposts": 85,
    "replies": 102,
-   "impressions": 150619
+   "impressions": 150754
   },
   {
    "id": "2112064790181101679",
    "created_at": "2026-10-19T06:14:20.000Z",
    "text": "上周 Mole 的 Windows 版本发布啦\n\n在这之前其实就累计在小范围人群，迭代了差不多 14 个版本，手工自测了 372 款软件的卸载、更新、残留清理、启动等，然后经过 Mole 天使用户多天内测，提了非常多的建议，终于差不多可用了，非常感谢大伙帮助！\n\n本次为了更好的用户使用体验，我使用了 Windows https://t.co/qjkFwvyU3S",
    "url": "https://x.com/HiTw93/status/2112064790181101679",
-   "likes": 143,
+   "likes": 144,
    "bookmarks": 42,
    "reposts": 4,
    "replies": 45,
-   "impressions": 24526
+   "impressions": 24595
   },
   {
    "id": "2111814051735208382",
@@ -686,32 +719,32 @@
    "text": "Just discovered this beautiful collection of 526 traditional Chinese colors, and I love it.\n\nEach color has its own poetic name, inspired by nature, flowers, minerals, and centuries of Chinese culture. Such a lovely source of inspiration for design.\n\nhttps://t.co/GDwP8ZFBcD https://t.co/d81VT5nHqk",
    "url": "https://x.com/HiTw93/status/2111814051735208382",
    "likes": 206,
-   "bookmarks": 196,
+   "bookmarks": 197,
    "reposts": 19,
    "replies": 15,
-   "impressions": 16568
+   "impressions": 16604
   },
   {
    "id": "2111697267614961830",
    "created_at": "2026-10-18T05:53:56.000Z",
    "text": "在这个 AI 什么都能干的年代，非常推荐工程师读一下这本书，我每次看完感觉功力大增！ https://t.co/U8tSOgDYBH",
    "url": "https://x.com/HiTw93/status/2111697267614961830",
-   "likes": 515,
-   "bookmarks": 430,
+   "likes": 516,
+   "bookmarks": 431,
    "reposts": 48,
    "replies": 58,
-   "impressions": 33890
+   "impressions": 33947
   },
   {
    "id": "2111650123944165796",
    "created_at": "2026-10-18T02:46:36.000Z",
    "text": "突然感觉这个循环很有意思，当我 Codex 蹬完急需第二天用的时候他们又重置了，然后当一个 Claude 账号被快用完的时候，还有 3 天才到周额度，另外一个又有100% 额度了，循环起来了，珍惜还需要人来管 AI 干活的时代，说不定等再过一段时间，可能真不需要人管了，那就需要找新的来玩了。 https://t.co/4XB4OvSZHi",
    "url": "https://x.com/HiTw93/status/2111650123944165796",
-   "likes": 56,
+   "likes": 57,
    "bookmarks": 15,
    "reposts": 2,
    "replies": 24,
-   "impressions": 18754
+   "impressions": 18788
   },
   {
    "id": "2111457953886962054",
@@ -722,7 +755,7 @@
    "bookmarks": 16,
    "reposts": 4,
    "replies": 16,
-   "impressions": 14460
+   "impressions": 14489
   },
   {
    "id": "2111408186892992688",
@@ -733,7 +766,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 6,
-   "impressions": 7814
+   "impressions": 7838
   },
   {
    "id": "2111377241678786884",
@@ -744,7 +777,7 @@
    "bookmarks": 2,
    "reposts": 0,
    "replies": 12,
-   "impressions": 9559
+   "impressions": 9585
   },
   {
    "id": "2110986830330175811",
@@ -755,7 +788,7 @@
    "bookmarks": 0,
    "reposts": 0,
    "replies": 0,
-   "impressions": 3813
+   "impressions": 3959
   },
   {
    "id": "2110980123524816977",
@@ -766,7 +799,7 @@
    "bookmarks": 6,
    "reposts": 2,
    "replies": 11,
-   "impressions": 13945
+   "impressions": 13968
   },
   {
    "id": "2110901581667516821",
@@ -775,20 +808,20 @@
    "url": "https://x.com/HiTw93/status/2110901581667516821",
    "likes": 624,
    "bookmarks": 572,
-   "reposts": 36,
+   "reposts": 37,
    "replies": 196,
-   "impressions": 92427
+   "impressions": 92669
   },
   {
    "id": "2110371329354698962",
    "created_at": "2026-10-14T14:05:08.000Z",
    "text": "Mole for Windows is finally here, a Windows app that feels well made. \n\nIt cleans thoroughly, removes apps with their leftovers, maps your disk and shows live status, all on your PC, no ads. $15.20 at launch, $10 for Mole for Mac owners with MOLEAGAIN. \n\nhttps://t.co/p6Lv5C37ne https://t.co/FSVKyMw4tr",
    "url": "https://x.com/HiTw93/status/2110371329354698962",
-   "likes": 546,
-   "bookmarks": 256,
+   "likes": 547,
+   "bookmarks": 255,
    "reposts": 37,
-   "replies": 125,
-   "impressions": 257522
+   "replies": 123,
+   "impressions": 257602
   },
   {
    "id": "2110154365667336695",
@@ -796,10 +829,10 @@
    "text": "教大家如何享受纯净舒服的推特时间线，不错过你的好友的高质量信息流。\n给到 Grok Bot 的提示词大概是这样，大伙也可以玩玩。\n\n每天晚上8点，帮我整理今天中文推特圈的精选\n\n来源是我关注的中文账号，加上你觉得不错的中文账号。只用 X 官方 API 读帖子，跟前一天去重。\n\n排版：\n- https://t.co/RP5dyVvHaf",
    "url": "https://x.com/HiTw93/status/2110154365667336695",
    "likes": 884,
-   "bookmarks": 1178,
+   "bookmarks": 1179,
    "reposts": 101,
-   "replies": 231,
-   "impressions": 82859
+   "replies": 232,
+   "impressions": 83015
   },
   {
    "id": "2110013637104668677",
@@ -810,7 +843,7 @@
    "bookmarks": 75,
    "reposts": 6,
    "replies": 145,
-   "impressions": 81291
+   "impressions": 81323
   },
   {
    "id": "2109953168952201219",
@@ -821,7 +854,7 @@
    "bookmarks": 37,
    "reposts": 8,
    "replies": 56,
-   "impressions": 24177
+   "impressions": 24208
   },
   {
    "id": "2109634433603281121",
@@ -832,7 +865,7 @@
    "bookmarks": 3,
    "reposts": 0,
    "replies": 1,
-   "impressions": 4304
+   "impressions": 4420
   },
   {
    "id": "2109632109136818245",
@@ -843,7 +876,7 @@
    "bookmarks": 95,
    "reposts": 19,
    "replies": 62,
-   "impressions": 73825
+   "impressions": 73886
   },
   {
    "id": "2109441875912622097",
@@ -854,7 +887,7 @@
    "bookmarks": 11,
    "reposts": 0,
    "replies": 15,
-   "impressions": 12592
+   "impressions": 12610
   },
   {
    "id": "2109201207311102354",
